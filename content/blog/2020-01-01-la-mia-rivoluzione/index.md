@@ -29,7 +29,7 @@ Altro aspetto molto interessante è come Johan non imposti tutta la sua biografi
 - Cruyff si è dedicato molto ai bambini, a valorizzare i momenti di sport. Ha costruito una fondazione con diversi progetti per aiutare i giovani a formarsi e a giocare. Per lui questo è la sua famiglia sono i traguardi più importanti della sua vita.
 - Altri continenti si stanno affacciando al mondo del calcio e aspettano solo che arrivi il fenomeno.
 
-### Le 14 regole di Johan Cruyff
+### :scroll: Le 14 regole di Johan Cruyff
 
 1. Gioco di **squadra**. Per fare le cose dovete farle insieme.
 2. **Responsabilità**. Prendetevi cura delle cose come se fossero le vostre.

@@ -49,7 +49,7 @@ Ecco allora la lista dei miei prossimi obiettivi per l'anno che sta per iniziare
   8. Adrian Fartade, _Su Nettuno piovono diamanti_, Rizzoli, 12 Marzo 2019. [Amazon](https://www.amazon.it/Nettuno-piovono-diamanti-Adrian-Fartade-ebook/dp/B07P8BY7JT/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1592421013&sr=8-1).
   9. Daniel Goleman, _Intelligenza Emotiva: Che cos'è e perchè può renderci felici_, Rizzoli, 25 Maggio 2011. [Amazon](https://www.amazon.it/Intelligenza-emotiva-Daniel-Goleman/dp/8817050164/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=).
 
-## :running: Corsa
+## 🏃 Corsa
 
 - Completare almeno 35 corse e almeno 250 Km totali. **Progresso 35/35 per un totale di 262 Km** :sunny:. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 

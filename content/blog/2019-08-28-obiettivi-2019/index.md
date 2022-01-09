@@ -11,7 +11,7 @@ Un piccolo gesto che ho intrapreso e che voglio portare avanti in un percorso di
 
 D'altronde nella teoria della progettazione PMP l'obiettivo è un concetto basilare e ben documentato. A tal proposito vi invito a dare uno sgardo ai principi del PMP... il water fall è spesso superato dal framework Agile ma fa parte della cultura generale.
 
-## Lettura
+## 📚 Lettura
 
 Leggere almeno 3 libri. _Progresso 5/3_.
 
@@ -21,7 +21,7 @@ Leggere almeno 3 libri. _Progresso 5/3_.
 4. Riccardo Pozzoli, _Non è un lavoro per vecchi: Quando una passione diventa business_, De Agostini, 20 marzo 2018. [Amazon](https://www.amazon.it/Non-lavoro-vecchi-passione-business-ebook/dp/B079GXCH87/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1569342923&sr=8-1). Leggi la mia recensione [qui](../2019-10-05-non-e-un-lavoro-per-vecchi)
 5. Pietro Trabucchi, _Resisto dunque sono. Chi sono i campioni della resistenza psicologica e come fanno a convivere felicemente con lo stress_, Corbaccio, 2019. [Amazon](https://www.amazon.it/Resisto-dunque-sono-Pietro-Trabucchi-ebook/dp/B0065QK98G/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1570450305&sr=8-1). Leggi la mia recensione [qui](../2019-11-15-resisto-dunque-sono)
 
-## Corsa
+## 🏃 Corsa
 
 Completare almeno 12 corse. _Progresso 41/12 per un totale di 308 Km_. [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
