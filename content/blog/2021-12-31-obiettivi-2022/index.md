@@ -34,9 +34,12 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-- Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 1/12**.
-  1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
-  2. George Orwell, _1984_, 1949.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 4/12**.
+
+1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
+2. George Orwell, _1984_, 1949.
+3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020.
+4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008
 
 ### 🏃 Corsa
 
