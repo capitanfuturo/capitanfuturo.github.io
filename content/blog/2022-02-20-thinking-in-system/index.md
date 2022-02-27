@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thinking in system"
+title: "Thinking in system (Meadows)"
 date: 2022-02-20 19:24:04 +0100
 tags: ["Libri"]
 published: true
