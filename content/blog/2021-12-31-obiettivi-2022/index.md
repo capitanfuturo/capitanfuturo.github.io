@@ -37,13 +37,14 @@ Dalle letture di quest'anno voglio ricordarmi che:
 Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 4/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
-2. George Orwell, _1984_, 1949.
-3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020.
-4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008
+2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
+3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020. Leggi la mia recensione [qui](../2022-01-02-libro-dei-cocktail)
+4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Leggi la mia recensione [qui](../2022-02-20-thinking-in-system)
+5. Alessandro Barrico, _The Game_, Einaudi, 2018.
 
 ### 🏃 Corsa
 
-- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 0/30 per un totale di 0/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 1/30 per un totale di 7/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ### :rocket: Lifelong learning
 
