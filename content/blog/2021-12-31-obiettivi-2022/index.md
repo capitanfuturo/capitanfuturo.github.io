@@ -40,17 +40,23 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
 3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020. Leggi la mia recensione [qui](../2022-01-02-libro-dei-cocktail)
 4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Leggi la mia recensione [qui](../2022-02-20-thinking-in-system)
-5. Alessandro Barrico, _The Game_, Einaudi, 2018.
+5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
+6. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021.
 
 ### 🏃 Corsa
 
-- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 1/30 per un totale di 7/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 3/30 per un totale di 22/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ### :rocket: Lifelong learning
 
-**Progresso 0/2**
+Quest'anno vorrei impegnarmi in questi due ambiti (**Progresso 1/2**):
 
 - :space_invader: studiare e migliorare le conoscenze su k8s.
 - :space_invader: contribuire ad un progetto open source
+
+Per quanto riguarda i miei contributi in progetti open source questi sono gli avanzamenti:
+
+- [contributo 1 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15104)
+- [contributo 2 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15560)
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
