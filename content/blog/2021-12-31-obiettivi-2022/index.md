@@ -34,7 +34,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 4/12**.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 6/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
@@ -42,6 +42,7 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Leggi la mia recensione [qui](../2022-02-20-thinking-in-system)
 5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
 6. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021.
+7. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020.
 
 ### 🏃 Corsa
 
@@ -58,5 +59,6 @@ Per quanto riguarda i miei contributi in progetti open source questi sono gli av
 
 - [contributo 1 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15104)
 - [contributo 2 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15560)
+- [contributo 3 per DBeaver](https://github.com/dbeaver/dbeaver/pull/16124)
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
