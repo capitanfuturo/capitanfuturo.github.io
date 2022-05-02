@@ -34,7 +34,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 6/12**.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 8/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
@@ -43,10 +43,11 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
 6. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021.
 7. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020.
+8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 novembre 2011.
 
 ### 🏃 Corsa
 
-- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 3/30 per un totale di 22/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 7/30 per un totale di 48/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ### :rocket: Lifelong learning
 

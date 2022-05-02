@@ -35,7 +35,7 @@ Collegato L'arduino con la porta USB del PC ho caricato il firmware firmata come
 
 A questo punto non manca che aprire VSCode da console su un progetto nuovo:
 
-```sh
+```bash
 mkdir johnny
 cd johnny
 npm install --save johnny-five

@@ -34,17 +34,17 @@ Ed eccomi qua a saldare il mio conto con me stesso per questa lettura tutta di u
 - 1995: Windows 95 di Bill Gates e EBay (Pierre Omidyar)
 - 1998: Google (Sergej Brin e Larry Page)
 - 1999: Napster (tecnologia di un dicianovenne Shawn Fanning peer-to-peer antisignana del web3)
-- 2000-2001 Scoppia la bolla delle dot.com bubble e nel 11 settembre dopo l'attentato alle Twin Towers si ha paura di tornare agli incubi del novecento.
-- 2002 Linkedin, primo vero social network (Reid Hoffman)
-- 2003 esce il BlackBerry Quark, il primo smartphone di massa e MySpace.
-- 2004 Facebook (Mark Zuckemberg)
-- 2005 YouTube
-- 2006 Twitter
-- 2007 Amazon lancia Kindle e Steve Jobs annuncio l'iPhone
+- 2000-2001: Scoppia la bolla delle dot.com bubble e nel 11 settembre dopo l'attentato alle Twin Towers si ha paura di tornare agli incubi del novecento.
+- 2002: Linkedin, primo vero social network (Reid Hoffman)
+- 2003: esce il BlackBerry Quark, il primo smartphone di massa e MySpace.
+- 2004: Facebook (Mark Zuckemberg)
+- 2005: YouTube
+- 2006: Twitter
+- 2007: Amazon lancia Kindle e Steve Jobs annuncio l'iPhone
 Yellow highlight | Location: 2,025
-- 2008 fallisce la Lehman Brothers e inizia un decennio di crisi economica
-- 2009 WhatsApp
-- 2010 Instagram
+- 2008: fallisce la Lehman Brothers e inizia un decennio di crisi economica
+- 2009: WhatsApp
+- 2010: Instagram
 
 ## 🍷 Conclusione
 
