@@ -6,6 +6,9 @@ import Layout from "../components/layout"
 import Seo from "../components/seo"
 
 const BlogIndex = ({ data, location }) => {
+  console.log(`BlogIndex data: ${JSON.stringify(data)}`);
+  console.log(`BlogIndex location: ${JSON.stringify(location)}`);
+  
   const siteTitle = data.site.siteMetadata?.title || `Title`
   const posts = data.allMarkdownRemark.nodes
 
@@ -81,7 +84,7 @@ export const pageQuery = graphql`
           slug
         }
         frontmatter {
-          date(formatString: "MMMM DD, YYYY")
+          date(formatString: "DD MMMM YYYY")
           title
           description
           tags

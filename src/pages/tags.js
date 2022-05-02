@@ -5,8 +5,11 @@ import PropTypes from "prop-types"
 import kebabCase from "lodash/kebabCase"
 
 // Components
-import { Helmet } from "react-helmet"
 import { Link, graphql } from "gatsby"
+
+import Bio from "../components/bio"
+import Layout from "../components/layout"
+import Seo from "../components/seo"
 
 const TagsPage = ({
   data: {
@@ -16,11 +19,20 @@ const TagsPage = ({
     },
   },
 }) => (
-  <div>
-    <Helmet title={title} />
-    <div>
-      <h1>Tags</h1>
-      <ul>
+  <Layout location='tags' title={title}>
+  <Seo
+    title='tags'
+    description='tags'
+  />
+  <article
+    className="blog-post"
+    itemScope
+    itemType="http://schema.org/Article"
+  >
+    <header>
+      <h1 itemProp="headline">Tags</h1>
+    </header>
+    <ul>
         {group.map(tag => (
           <li key={tag.fieldValue}>
             <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
@@ -29,8 +41,12 @@ const TagsPage = ({
           </li>
         ))}
       </ul>
-    </div>
-  </div>
+    <hr />
+    <footer>
+      <Bio />
+    </footer>
+  </article>
+</Layout>
 )
 
 TagsPage.propTypes = {

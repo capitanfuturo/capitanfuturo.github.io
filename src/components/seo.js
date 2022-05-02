@@ -77,8 +77,8 @@ const Seo = ({ description, lang, meta, title }) => {
 
 Seo.defaultProps = {
   lang: `it`,
-  meta: [],
-  description: ``,
+  meta: ['blog','arduino','books','coding'],
+  description: `A personal blog with my hobbies, readings and code fun`,
 }
 
 Seo.propTypes = {
