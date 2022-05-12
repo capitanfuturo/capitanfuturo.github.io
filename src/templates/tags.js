@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 // Components
 import { Link, graphql } from "gatsby"
 
-const Tags = ({ pageContext, data }) => {
+const TagsTemplate = ({ pageContext, data }) => {
   const { tag } = pageContext
   const { edges, totalCount } = data.allMarkdownRemark
   const tagHeader = `${totalCount} post${
@@ -34,7 +34,7 @@ const Tags = ({ pageContext, data }) => {
   )
 }
 
-Tags.propTypes = {
+TagsTemplate.propTypes = {
   pageContext: PropTypes.shape({
     tag: PropTypes.string.isRequired,
   }),
@@ -57,7 +57,7 @@ Tags.propTypes = {
   }),
 }
 
-export default Tags
+export default TagsTemplate
 
 export const pageQuery = graphql`
   query ($tag: String) {
