@@ -41,7 +41,6 @@ Ed eccomi qua a saldare il mio conto con me stesso per questa lettura tutta di u
 - 2005: YouTube
 - 2006: Twitter
 - 2007: Amazon lancia Kindle e Steve Jobs annuncio l'iPhone
-Yellow highlight | Location: 2,025
 - 2008: fallisce la Lehman Brothers e inizia un decennio di crisi economica
 - 2009: WhatsApp
 - 2010: Instagram

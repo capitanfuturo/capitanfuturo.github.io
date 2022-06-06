@@ -3,7 +3,7 @@ layout: post
 title: "Il genio non esiste: e a volte è un idiota (BarbascuraX)"
 date: 2022-06-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 
