@@ -34,7 +34,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 8/12**.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 9/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
@@ -48,7 +48,7 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 
 ### 🏃 Corsa
 
-- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 13/30 per un totale di 85/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 15/30 per un totale di 98/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ### :rocket: Lifelong learning
 
