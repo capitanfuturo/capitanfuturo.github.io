@@ -41,7 +41,7 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020. Leggi la mia recensione [qui](../2022-01-02-libro-dei-cocktail)
 4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Leggi la mia recensione [qui](../2022-02-20-thinking-in-system)
 5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
-6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020.
+6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020. Leggi la mia recensione [qui](../2022-06-01-il-genio-non-esiste)
 7. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021.
 8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 novembre 2011.
 9. George Orwell, _La fattoria degli animali_, 1945.
