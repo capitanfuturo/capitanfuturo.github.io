@@ -11,3 +11,14 @@ start:
 ##code: @ Open vscode
 code: 
 	code .
+
+##publish: @ Push to master and publish
+publish:
+	git add .
+	git commit -m "publish"
+	git push
+	git checkout main
+	git pull
+	git merge develop
+	git push
+	git checkout develop
