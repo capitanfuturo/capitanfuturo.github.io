@@ -3,6 +3,7 @@ layout: post
 title: "PSM-I Certificazione Scrum Master livello 1"
 date: 2019-12-16 19:24:04 +0100
 tags: ["Personale"]
+published: true
 ---
 
 ## :man: Premessa

@@ -3,6 +3,7 @@ layout: post
 title: "Arduino, la mia prima avventura"
 date: 2019-11-01 19:24:04 +0100
 tags: [Arduino]
+published: true
 ---
 
 ## :computer: Premessa

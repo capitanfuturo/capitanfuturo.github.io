@@ -3,6 +3,7 @@ layout: post
 title: "Obiettivi 2019"
 date: 2019-08-28 19:24:04 +0100
 tags: ["Personale"]
+published: true
 ---
 
 :trophy: Lo so che sono un bel po' in ritardo ma in vista del prossimo anno volevo fissare qui i pochi obiettivi personali per il 2019 ed i relativi risultati parziali.

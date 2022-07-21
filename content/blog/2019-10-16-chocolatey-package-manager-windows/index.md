@@ -3,6 +3,7 @@ layout: post
 title: "Chocolatey, il package manager per Windows"
 date: 2019-10-16 19:24:04 +0100
 tags: ["Software"]
+published: true
 ---
 
 ## :floppy_disk: Premessa

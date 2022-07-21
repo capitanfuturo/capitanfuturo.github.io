@@ -1,15 +1,14 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from "react";
+import PropTypes from "prop-types";
 
 // Utilities
-import kebabCase from "lodash/kebabCase"
+import kebabCase from "lodash/kebabCase";
 
 // Components
-import { Link, graphql } from "gatsby"
+import { Link, graphql } from "gatsby";
 
-import Bio from "../components/bio"
-import Layout from "../components/layout"
-import Seo from "../components/seo"
+import Bio from "../components/bio";
+import Layout from "../components/layout";
 
 const TagsPage = ({
   data: {
@@ -19,21 +18,17 @@ const TagsPage = ({
     },
   },
 }) => (
-  <Layout location='tags' title={title}>
-  <Seo
-    title='tags'
-    description='tags'
-  />
-  <article
-    className="blog-post"
-    itemScope
-    itemType="http://schema.org/Article"
-  >
-    <header>
-      <h1 itemProp="headline">Tags</h1>
-    </header>
-    <ul>
-        {group.map(tag => (
+  <Layout location="tags" title={title}>
+    <article
+      className="blog-post"
+      itemScope
+      itemType="http://schema.org/Article"
+    >
+      <header>
+        <h1 itemProp="headline">Tags</h1>
+      </header>
+      <ul>
+        {group.map((tag) => (
           <li key={tag.fieldValue}>
             <Link to={`/tags/${kebabCase(tag.fieldValue)}/`}>
               {tag.fieldValue} ({tag.totalCount})
@@ -41,13 +36,13 @@ const TagsPage = ({
           </li>
         ))}
       </ul>
-    <hr />
-    <footer>
-      <Bio />
-    </footer>
-  </article>
-</Layout>
-)
+      <hr />
+      <footer>
+        <Bio />
+      </footer>
+    </article>
+  </Layout>
+);
 
 TagsPage.propTypes = {
   data: PropTypes.shape({
@@ -65,9 +60,9 @@ TagsPage.propTypes = {
       }),
     }),
   }),
-}
+};
 
-export default TagsPage
+export default TagsPage;
 
 export const pageQuery = graphql`
   query {
@@ -83,4 +78,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

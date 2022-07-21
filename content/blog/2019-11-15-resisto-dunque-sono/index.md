@@ -3,6 +3,7 @@ layout: post
 title: "Resisto dunque sono. (Pietro Trabucchi)"
 date: 2019-11-15 07:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

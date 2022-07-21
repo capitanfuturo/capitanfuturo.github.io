@@ -3,6 +3,7 @@ layout: post
 title: "Come trattare gli altri e farseli amici (Dale Carnegie)"
 date: 2019-10-01 07:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

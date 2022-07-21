@@ -3,6 +3,7 @@ layout: post
 title: "Non è un lavoro per vecchi: Quando una passione diventa business (Riccardo Pozzoli)"
 date: 2019-10-05 07:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

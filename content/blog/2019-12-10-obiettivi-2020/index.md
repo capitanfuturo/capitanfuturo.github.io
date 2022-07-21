@@ -3,6 +3,7 @@ layout: post
 title: "Obiettivi 2020 e bilancio 2019"
 date: 2019-12-10 19:24:04 +0100
 tags: ["Personale"]
+published: true
 ---
 
 :trophy: Il 2020 è un anno bisestile che vedrà ospitate le olimpiadi a Tokyo. Gli antichi romani credevano che gli anni bisestili non portassero bene e questo molto probabilmente perché Febbraio era anche il mese dei defunti.

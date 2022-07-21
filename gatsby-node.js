@@ -1,14 +1,14 @@
-const path = require(`path`)
-const { createFilePath } = require(`gatsby-source-filesystem`)
-const _ = require("lodash")
+const path = require(`path`);
+const { createFilePath } = require(`gatsby-source-filesystem`);
+const _ = require("lodash");
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage } = actions
+  const { createPage } = actions;
 
   // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
-  const tagTemplate = path.resolve("src/templates/tags.js")
-  const blogListTemplate = path.resolve(`./src/templates/blog-list.js`)
+  const blogPost = path.resolve(`./src/templates/blog-post.js`);
+  const tagTemplate = path.resolve("src/templates/tags.js");
+  const blogListTemplate = path.resolve(`./src/templates/blog-list.js`);
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -16,6 +16,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
+          filter: { frontmatter: { published: { eq: true } } }
           limit: 1000
         ) {
           nodes {
@@ -35,17 +36,18 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         }
       }
     `
-  )
+  );
 
   if (result.errors) {
     reporter.panicOnBuild(
       `There was an error loading your blog posts`,
       result.errors
-    )
-    return
+    );
+    return;
   }
 
-  const posts = result.data.allMarkdownRemark.nodes
+  const posts = result.data.allMarkdownRemark.nodes;
+  console.log(`Total posts: ${posts.length}`);
 
   // Create blog posts pages
   // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
@@ -53,9 +55,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   if (posts.length > 0) {
     posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id
-      const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id
-
+      const previousPostId = index === 0 ? null : posts[index - 1].id;
+      const nextPostId =
+        index === posts.length - 1 ? null : posts[index + 1].id;
+      console.log(`----> Creating post with index ${index}`);
       createPage({
         path: post.fields.slug,
         component: blogPost,
@@ -64,62 +67,69 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           previousPostId,
           nextPostId,
         },
-      })
-    })
-
-    
+      });
+    });
 
     // create paginated blog
     // Create blog post list pages
     const postsPerPage = 10;
     const numPages = Math.ceil(posts.length / postsPerPage);
+    console.log(`----> Num pages ${numPages}`);
 
     Array.from({ length: numPages }).forEach((_, index) => {
+      const path = index === 0 ? `/` : `/${index + 1}`;
+      const skip = index * postsPerPage;
+      const currentPage = index + 1;
+      const limit = postsPerPage;
+
+      console.log(
+        `----> Creating paginated page with path:${path}, currentPage:${currentPage}, limit:${postsPerPage} skip:${skip}`
+      );
       createPage({
-        path: index === 0 ? `/` : `/${index + 1}`,
+        path: path,
         component: blogListTemplate,
         context: {
           id: posts[index].id,
-          limit: postsPerPage,
-          skip: index * postsPerPage,
+          limit: limit,
+          skip: skip,
           numPages: numPages,
-          currentPage: index + 1,
+          currentPage: currentPage,
         },
       });
     });
   }
 
   // Extract tag data from query
-  const tags = result.data.tagsGroup.group
+  const tags = result.data.tagsGroup.group;
 
   // Make tag pages
-  tags.forEach(tag => {
+  tags.forEach((tag) => {
     createPage({
       path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
       },
-    })
-  })
-}
+    });
+  });
+};
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
-  const { createNodeField } = actions
+  const { createNodeField } = actions;
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode })
+    const value = createFilePath({ node, getNode });
 
     createNodeField({
       name: `slug`,
       node,
       value,
-    })
+    });
   }
-}
+};
 
 exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
+  const { createTypes } = actions;
 
   // Explicitly define the siteMetadata {} object
   // This way those will always be defined even if removed from gatsby-config.js
@@ -157,5 +167,5 @@ exports.createSchemaCustomization = ({ actions }) => {
     type Fields {
       slug: String
     }
-  `)
-}
+  `);
+};

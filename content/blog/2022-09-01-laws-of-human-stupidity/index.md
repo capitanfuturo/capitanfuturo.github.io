@@ -37,11 +37,13 @@ Guardandolo si possono fare delle considerazioni interessanti. Per esempio possi
 
 ## 🍷 Conclusione
 
-Libro piacevole e veloce. Una chicca del libro è che l’autore italiano ha deciso di tradurre questo libro solo 25 anni dopo la sua prima edizione con il titolo "Allegro ma non troppo".
+Libro piacevole e veloce. Una chicca è che l’autore italiano ha deciso di tradurre questo libro solo 25 anni dopo la sua prima edizione con il titolo "Allegro ma non troppo".
 
 Non credo che si possa semplificare così tanto le persone però lo spirito del libro è leggero ed è chiaro che anche l’autore lo sappia. Parte centrale è lo schema sul piano cartesiano delle 4 categorie e il concetto antico ma sempre valido che ad ogni azione, ne corrisponde una controazione.
 
-Altra considerazione è che legendo il libro si possa credere troppo facilmente di non appartenere alla categoria incriminata ma posso assicurare che se ci si basa sulla regola del massimizzare il vantagio reciproco tipico degli intelligenti in ogni occasione… beh allora è molto facile allontanarsi dalla categoria degli intellienti per posizionarsi nel quadrante in basso a destra.
+Altra considerazione è che leggendo il libro si possa credere troppo facilmente di non appartenere alla categoria incriminata ma posso assicurare che se ci si basa sulla regola del massimizzare il vantagio reciproco tipico degli intelligenti… beh allora è molto facile allontanarsi dalla categoria degli intelligenti per posizionarsi nel quadrante in basso a destra.
+
+In ogni caso se tenuto a mente lo schema di Cipolla può aiutarci a riflettere sulle nostre azioni prima di compierle. Un breve sguardo mentale al quadrante per provare a capire dove ci stiamo posizionando ci dà una misura di dove vogliamo andare e cosa vogliamo essere.
 
 ## 🤓 Riferimento
 

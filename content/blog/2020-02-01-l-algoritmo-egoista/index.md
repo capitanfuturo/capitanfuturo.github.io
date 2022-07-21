@@ -3,6 +3,7 @@ layout: post
 title: "#Humanless. L'algoritmo egoista. (Massimo Chiriatti)"
 date: 2020-02-01 16:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

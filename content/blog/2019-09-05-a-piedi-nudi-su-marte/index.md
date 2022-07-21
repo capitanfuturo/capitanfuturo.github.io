@@ -3,6 +3,7 @@ layout: post
 title: "A piedi nudi su Marte (Adrian Fartade)"
 date: 2019-09-05 22:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

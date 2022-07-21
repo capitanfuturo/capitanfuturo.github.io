@@ -3,6 +3,7 @@ layout: post
 title: "Arduino e la matrice LED 8x8 1588BS"
 date: 2020-01-12 15:24:04 +0100
 tags: [Arduino]
+published: true
 ---
 
 ## :computer: Introduzione

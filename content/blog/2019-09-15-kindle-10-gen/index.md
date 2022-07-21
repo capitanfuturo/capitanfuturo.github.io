@@ -3,6 +3,7 @@ layout: post
 title: "Amazon Kindle (10 Gen.) first impression"
 date: 2019-09-15 07:24:04 +0100
 tags: ["Hardware"]
+published: true
 ---
 
 ## :computer: Premessa

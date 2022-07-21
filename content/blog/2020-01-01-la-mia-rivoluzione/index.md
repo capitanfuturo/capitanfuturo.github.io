@@ -3,6 +3,7 @@ layout: post
 title: "La mia rivoluzione. (Johan Cruyff)"
 date: 2020-01-01 16:24:04 +0100
 tags: ["Libri"]
+published: true
 ---
 
 ## :books: Premessa

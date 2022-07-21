@@ -1,0 +1,20 @@
+version: "3.5"
+
+services:
+  blog:
+    build:
+      context: ./
+      dockerfile: docker/Dockerfile.local
+    image: capitanfuturo-blog:local
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./:/app
+    networks:
+      local_network:
+        aliases:
+          - capitanfuturo-blog
+
+networks:
+  local_network:
+    name: capitanfuturo-blog-network
