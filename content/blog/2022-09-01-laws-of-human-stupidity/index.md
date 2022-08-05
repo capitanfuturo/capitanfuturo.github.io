@@ -9,7 +9,7 @@ published: false
 
 Ho letto questo libro di Carlo Cipolla “The basic laws of human stupidity” da un consiglio di uno youtuber, Marcello Ascani. Un ragazzo che sta costruendo un discreto successo attraverso youtube e la sua presenza nei social.
 
-Il libro è interessante anche se devo ammettere a volte privo di numeri scientifici però efficace nel descrivere se pur in modo forse troppo generalista l’essere umano e la sua tendenza a comportarsi da stupido.
+Il libro è interessante anche se devo ammettere a volte privo di numeri scientifici però efficace nel descrivere seppur in modo forse troppo generalista l’essere umano e la sua tendenza a comportarsi da stupido.
 
 ## 📑 Leggi basilari e annotazioni
 
