@@ -26,7 +26,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 - ⏲️ Il **tempo non è una dimensione speciale**. In realtà potrebbe non esistere in senso assoluto ma avere senso in località di massa. Gli eventi potrebbero non susseguirsi in sequenza ma essere semplicemente relazionati come in una grande maglia ed avere natura quantistica. Questi concetti non cambiano di molto la nostra percezione perchè la nostra velocità e massa relativa rispetto la Terra non ce lo fanno sperimentare sensorialmente.
 - 🌍 Possiamo asprirare ad essere una **specie multiplanetaria** ma dobbiamo aver coraggio e voglia di risolvere i problemi di questo pianeta perchè per adesso e molto probabilmente sarà la nostra ultima casa.
 - 🚀 **Siamo noi a fare in modo che le cose accadano**.
-- :money_with_wings: L'economia non è una scienza esatta ma studia modelli che si sono susseguiti nel tempo e cerca di descrivere la realtà, i modelli di oggi dovranno cercare di descrivere il rapporto tra aziende e governi.
+- :money_with_wings: L'economia non è una scienza esatta ma studia modelli che si sono susseguiti nel tempo e cerca di descrivere la realtà, **i modelli di oggi dovranno cercare di descrivere il rapporto tra aziende e governi**.
 - 🧑‍🎓 Studiare i **meccanismi dell'economia** e la sua storia ci permette di capire il mondo sempre più complesso delle **crypto valute** e delle sue potenzialità.
 - 👍 **Siamo fortunati di poter vivere questo tempo**.
 
@@ -34,7 +34,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 10/12**.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 11/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
@@ -43,9 +43,10 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
 6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020. Leggi la mia recensione [qui](../2022-06-01-il-genio-non-esiste)
 7. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021. Leggi la mia recensione [qui](../2022-07-01-sapiens)
-8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 novembre 2011.
+8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 Novembre 2011. Leggi la mia recensione [qui](../2022-09-01-laws-of-human-stupidity)
 9. George Orwell, _La fattoria degli animali_, 1945.
 10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020.
+11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021.
 
 ### 🏃 Corsa
 
