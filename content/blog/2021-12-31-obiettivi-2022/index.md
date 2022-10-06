@@ -44,7 +44,7 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020. Leggi la mia recensione [qui](../2022-06-01-il-genio-non-esiste)
 7. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021. Leggi la mia recensione [qui](../2022-07-01-sapiens)
 8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 Novembre 2011. Leggi la mia recensione [qui](../2022-09-01-laws-of-human-stupidity)
-9. George Orwell, _La fattoria degli animali_, 1945.
+9. George Orwell, _La fattoria degli animali_, 1945. Leggi la mia recensione [qui](../2022-10-01-la-fattoria-degli-animali)
 10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020.
 11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021.
 
