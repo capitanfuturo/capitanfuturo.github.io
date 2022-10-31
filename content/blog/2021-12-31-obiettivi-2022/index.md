@@ -47,6 +47,7 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 9. George Orwell, _La fattoria degli animali_, 1945. Leggi la mia recensione [qui](../2022-10-01-la-fattoria-degli-animali)
 10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020.
 11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021.
+12. 
 
 ### 🏃 Corsa
 
