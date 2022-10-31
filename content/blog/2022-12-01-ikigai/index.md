@@ -48,7 +48,7 @@ L'autrice condensa in un libricino concetti e argomenti che possono dare un'idea
 * la legge dell'attrazione
 * la meditazione
 * Csikszentmihalyi e il flow
-* Garmezy e la resilienza 
+* Garmezy e la resilienza
 
 ma ne ho apprezzato la delicatezza e la scorrevolezza della lettura.
 
