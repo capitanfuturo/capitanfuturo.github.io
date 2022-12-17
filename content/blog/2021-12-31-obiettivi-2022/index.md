@@ -34,7 +34,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ### :books: Lettura
 
-Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 11/12**.
+Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 12/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
 2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
@@ -47,15 +47,15 @@ Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Pro
 9. George Orwell, _La fattoria degli animali_, 1945. Leggi la mia recensione [qui](../2022-10-01-la-fattoria-degli-animali)
 10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020.
 11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021.
-12. 
+12. Barbascura X, _Saggio erotico sulla fine del mondo. La commedia brutta del disastro ambientale_, Mondadori, 22 Giugno 2021.
 
 ### 🏃 Corsa
 
-- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 15/30 per un totale di 98/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
+- Completare almeno 30 corse e almeno 250 Km totali. **Progresso 15/30 per un totale di 99/250 km** [Strava](https://www.strava.com/athletes/27329378/training/log?feature=public-training-log)
 
 ### :rocket: Lifelong learning
 
-Quest'anno vorrei impegnarmi in questi due ambiti (**Progresso 1/2**):
+Quest'anno vorrei impegnarmi in questi due ambiti (**Progresso 2/2**):
 
 - :space_invader: studiare e migliorare le conoscenze su k8s.
 - :space_invader: contribuire ad un progetto open source
@@ -65,5 +65,7 @@ Per quanto riguarda i miei contributi in progetti open source questi sono gli av
 - [contributo 1 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15104)
 - [contributo 2 per DBeaver](https://github.com/dbeaver/dbeaver/pull/15560)
 - [contributo 3 per DBeaver](https://github.com/dbeaver/dbeaver/pull/16124)
+
+Per k8s ho avuto la possibilità di fare un corso grazie ad [AzzurroDigitale](https://www.azzurrodigitale.com/) con [Paolo Carta](https://www.linkedin.com/in/paolo-carta/). Corso che mi ha permesso di avere una introduzione su questo orchestratore di container.
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)

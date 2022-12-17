@@ -3,7 +3,7 @@ layout: post
 title: "Ikigai il Metodo Giapponese: Scopri ciò per cui vale la pena vivere con la Via Giapponese alla Felicità (Allegra De Laureti)"
 date: 2022-12-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 
