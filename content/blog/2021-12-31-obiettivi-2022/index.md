@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Obiettivi 2021 e bilancio 2020"
+title: "Obiettivi 2022 e bilancio 2021"
 date: 2021-12-31 19:24:04 +0100
 tags: ["Personale"]
 published: true
