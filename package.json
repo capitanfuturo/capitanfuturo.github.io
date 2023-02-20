@@ -8,6 +8,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001456",
     "gatsby": "^4.4.0",
     "gatsby-plugin-catch-links": "^4.4.0",
     "gatsby-plugin-feed": "^4.4.0",

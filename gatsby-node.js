@@ -3,18 +3,12 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 const _ = require("lodash");
 
 exports.createPages = async ({ graphql, actions, reporter }) => {
-  const { createPage } = actions;
-
-  // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/blog-post.js`);
-  const tagTemplate = path.resolve("src/templates/tags.js");
-  const blogListTemplate = path.resolve(`./src/templates/blog-list.js`);
-
-  // Get all markdown blog posts sorted by date
-  const result = await graphql(
+  // fetch data
+  console.log("LOG: fetch data");
+  const { data } = await graphql(
     `
-      {
-        allMarkdownRemark(
+      query Projects {
+        posts: allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: ASC }
           filter: { frontmatter: { published: { eq: true } } }
           limit: 1000
@@ -32,83 +26,81 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         tagsGroup: allMarkdownRemark(limit: 2000) {
           group(field: frontmatter___tags) {
             fieldValue
+            totalCount
           }
         }
       }
     `
   );
 
-  if (result.errors) {
-    reporter.panicOnBuild(
-      `There was an error loading your blog posts`,
-      result.errors
-    );
+  // check error
+  console.log(`LOG: check error: ${JSON.stringify(data.errors)}`);
+  if (data.errors) {
+    reporter.panicOnBuild(`There was an error loading data`, result.errors);
     return;
   }
 
-  const posts = result.data.allMarkdownRemark.nodes;
-  console.log(`Total posts: ${posts.length}`);
+  // post list page
+  console.log(`LOG: post list page`);
+  const POST_PER_PAGE = 10;
+  const posts = data.posts.nodes;
+  const numPages = Math.ceil(posts.length / POST_PER_PAGE);
+  Array.from({ length: numPages }).forEach((_, index) => {
+    const urlPath = index === 0 ? `/` : `/${index + 1}`;
+    const skip = index * POST_PER_PAGE;
+    const currentPage = index + 1;
+    const limit = POST_PER_PAGE;
 
-  // Create blog posts pages
-  // But only if there's at least one markdown file found at "content/blog" (defined in gatsby-config.js)
-  // `context` is available in the template as a prop and as a variable in GraphQL
-
-  if (posts.length > 0) {
-    posts.forEach((post, index) => {
-      const previousPostId = index === 0 ? null : posts[index - 1].id;
-      const nextPostId =
-        index === posts.length - 1 ? null : posts[index + 1].id;
-      console.log(`----> Creating post with index ${index}`);
-      createPage({
-        path: post.fields.slug,
-        component: blogPost,
-        context: {
-          id: post.id,
-          previousPostId,
-          nextPostId,
-        },
-      });
-    });
-
-    // create paginated blog
-    // Create blog post list pages
-    const postsPerPage = 10;
-    const numPages = Math.ceil(posts.length / postsPerPage);
-    console.log(`----> Num pages ${numPages}`);
-
-    Array.from({ length: numPages }).forEach((_, index) => {
-      const path = index === 0 ? `/` : `/${index + 1}`;
-      const skip = index * postsPerPage;
-      const currentPage = index + 1;
-      const limit = postsPerPage;
-
-      console.log(
-        `----> Creating paginated page with path:${path}, currentPage:${currentPage}, limit:${postsPerPage} skip:${skip}`
-      );
-      createPage({
-        path: path,
-        component: blogListTemplate,
-        context: {
-          id: posts[index].id,
-          limit: limit,
-          skip: skip,
-          numPages: numPages,
-          currentPage: currentPage,
-        },
-      });
-    });
-  }
-
-  // Extract tag data from query
-  const tags = result.data.tagsGroup.group;
-
-  // Make tag pages
-  tags.forEach((tag) => {
-    createPage({
-      path: `/tags/${_.kebabCase(tag.fieldValue)}/`,
-      component: tagTemplate,
+    actions.createPage({
+      path: urlPath,
+      component: path.resolve(`./src/templates/blog-list.js`),
       context: {
-        tag: tag.fieldValue,
+        id: posts[index].id,
+        limit: limit,
+        skip: skip,
+        numPages: numPages,
+        currentPage: currentPage,
+      },
+    });
+  });
+
+  // post page
+  console.log(`LOG: post page`);
+  data.posts.nodes.forEach((node, index) => {
+    const previousPostId = index === 0 ? null : posts[index - 1].id;
+    const nextPostId = index === posts.length - 1 ? null : posts[index + 1].id;
+    actions.createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/blog-post.js`),
+      context: {
+        id: node.id,
+        previousPostId,
+        nextPostId,
+      },
+    });
+  });
+
+  // tag list page
+  console.log(`LOG: tag list page`);
+  data.tagsGroup.group.forEach((node) => {
+    actions.createPage({
+      path: `/tags/`,
+      component: path.resolve("src/templates/tag-list.js"),
+      context: {
+        tag: node.fieldValue,
+      },
+    });
+  });
+
+  // tag specific list page
+  console.log(`LOG: tag specific list page`);
+  data.tagsGroup.group.forEach((node) => {
+    actions.createPage({
+      path: `/tags/${_.kebabCase(node.fieldValue)}/`,
+      component: path.resolve("src/templates/tags.js"),
+      context: {
+        tag: node.fieldValue,
+        totalCount: node.totalCount,
       },
     });
   });
