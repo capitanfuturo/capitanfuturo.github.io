@@ -37,11 +37,11 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 #### Work
 
 1. Philip A. Laplante - Colin J. Neil, _Antipatterns Identification, Refactoring, and Management_, Auerbach Publications, 2011.
-2. Jeff Sutherland - JJ Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Random House Business, 2015.
+2. Jeff Sutherland, Jeffrey Victor Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Currency, 2014.
 
 #### Extra
 
-1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017.
+1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017. Leggi la mia recensione [qui](../2023-02-01-pensieri-lenti-e-veloci)
 2. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018.
 3. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004.
 

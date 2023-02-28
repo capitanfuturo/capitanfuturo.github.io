@@ -34,7 +34,7 @@ E' quindi possibile usare e modificare l'opera attribuendone la paternità agli 
 
 ## Appunti tratti dalla guida ufficiale
 
-### Introduzione
+### In a nutshell
 
 - Scrum è un Framework
   - Leggero
@@ -51,9 +51,9 @@ E' quindi possibile usare e modificare l'opera attribuendone la paternità agli 
 - Scrum si fonda sulla teoria del controllo dei processi empirici.
 - _Empirismo_ = la conoscenza deriva dall'esperienza e le decisioni sono basate su quello che è noto.
 - 3 pilastri dell'empirismo:
-  1.  _Trasparenza_
-  2.  _Ispezione_
-  3.  _Adattamento_
+  1. _Trasparenza_
+  2. _Ispezione_
+  3. _Adattamento_
 
 ### Valori
 
@@ -69,9 +69,9 @@ E' quindi possibile usare e modificare l'opera attribuendone la paternità agli 
 - hanno _tutte le competenze_ necessarie per portare a termine il lavoro
 - consegnano in modo _iterativo e incrementale_
 - Il modello Scrum è disegnato per ottimizzare:
-  1.  Flessibilità
-  2.  Creatività
-  3.  Produttività
+  1. Flessibilità
+  2. Creatività
+  3. Produttività
 
 ### Ruoli
 
@@ -82,10 +82,10 @@ Nessun ruolo è necessariamente full-time, quindi la singola persona può partec
 - Responsabile di massimizzare il valore del prodotto
 - 1 Persona
 - Responsabile unico del Product Backlog, la cui gestione comporta:
-  1.  esprimere chiaramente gli Item del Backlog
-  2.  ordinare gli Item che compongono il Product Backlog
-  3.  ottimizzare il valore del lavoro del Development Team
-  4.  assicura che il Product Backlog sia visibile, trasparente, chiaro a tutti
+  1. esprimere chiaramente gli Item del Backlog
+  2. ordinare gli Item che compongono il Product Backlog
+  3. ottimizzare il valore del lavoro del Development Team
+  4. assicura che il Product Backlog sia visibile, trasparente, chiaro a tutti
 
 #### Development Team
 
@@ -106,15 +106,15 @@ Nessun ruolo è necessariamente full-time, quindi la singola persona può partec
 
 - Responsabile di _promuovere e supportare lo Scrum_
 - E' un _leader a servizio dello Scrum Team_:
-  1.  Servizio nei confronti del _Product Owner_:
+  1. Servizio nei confronti del _Product Owner_:
       - Tecniche per la gestione del Backlog
       - Aiuta a comprendere il Product Planning
       - Aiuta negli eventi dello Scrum
-  2.  Servizio nei confronti del _Development Team_:
+  2. Servizio nei confronti del _Development Team_:
       - Coaching
       - Rimuove gli impedimenti
       - Aiuta gli eventi dello Scrum
-  3.  Servizio nei confronti dell'organizzazione intesa come _elementi esterni allo Scrum Team_
+  3. Servizio nei confronti dell'organizzazione intesa come _elementi esterni allo Scrum Team_
       - Pianificare l'adozione dello Scrum
       - Lavorare con gli altri Scrum Master
 
@@ -129,15 +129,15 @@ Nessun ruolo è necessariamente full-time, quindi la singola persona può partec
 - 1 mese o meno nel quale si genera Incremento del prodotto. Lo sprint finisce quando termina il time boxed di un mese, la durata non può essere accorciata o allungata.
 - Un nuovo sprint inizia subito dopo il termine del precedente
 - Composto:
-  1.  Sprint Planning
-  2.  Daily Scrum
-  3.  Lavoro di sviluppo
-  4.  Sprint Review
-  5.  Sprint Retrospective
+  1. Sprint Planning
+  2. Daily Scrum
+  3. Lavoro di sviluppo
+  4. Sprint Review
+  5. Sprint Retrospective
 - Durante lo sprint:
-  1.  _Non viene apportata nessuna modifica che metta in pericolo lo Sprint Goal_
-  2.  _La qualità non deve diminuire_
-  3.  Se si cancella uno sprint va comunque fatta la review del _fatto_
+  1. _Non viene apportata nessuna modifica che metta in pericolo lo Sprint Goal_
+  2. _La qualità non deve diminuire_
+  3. Se si cancella uno sprint va comunque fatta la review del _fatto_
 - Cancellare uno Sprint:
   - solo il Product Owner può cancellare lo sprint
   - se lo Sprint Goal è obsoleto
@@ -170,9 +170,9 @@ Nessun ruolo è necessariamente full-time, quindi la singola persona può partec
 - 15 minuti al giorno (fissi a prescindere dal time-boxed dello Sprint)
 - Si pianificano le attività per le successive 24 ore
 - _Non è un evento strutturato_ ma dovrebbe rispondere a questi quesiti:
-  1.  Cosa ho fatto ieri per arrivare allo Sprint Goal
-  2.  Cosa farò oggi per arrivare allo Sprint Goal
-  3.  Vedo impedimenti nel farlo
+  1. Cosa ho fatto ieri per arrivare allo Sprint Goal
+  2. Cosa farò oggi per arrivare allo Sprint Goal
+  3. Vedo impedimenti nel farlo
 - successivamente all'evento è possibile ri-pianificare e adattare il restante Sprint Backlog
 - il Development Team è responsabile
 - Scrum Master aiuta a mantenere l'evento time-boxed
@@ -294,6 +294,6 @@ E se vi state chiedendo se ho completato la certificazione... ecco qui la mia li
 
 ## Copyright
 
-©2017 Ken Schwaber and Jeff Sutherland. Offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
+©2017 Ken Schwaber and Jeff Sutherland. Offered for license under the [Attribution Share-Alike license of Creative Commons](http://creativecommons.org/licenses/by-sa/4.0/legalcode) and also described in [summary form](http://creativecommons.org/licenses/by-sa/4.0/). By utilizing this Scrum Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons.
 
 > Scrum’s roles, events, artifacts, and rules are immutable and although implementing only parts of Scrum is possible, the result is not Scrum. (The Scrum Guide)
