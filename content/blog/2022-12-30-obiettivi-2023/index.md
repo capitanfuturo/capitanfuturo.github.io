@@ -32,7 +32,7 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 2/6 + 2/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 2/6 + 3/4**.
 
 #### Work
 
@@ -43,9 +43,10 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 
 1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017.
 2. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018.
+3. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004.
 
 ### 🏃 Allenamento
 
-- Iscriversi in palestra 👍 e andare ad almeno 20 volte **17/20**
+- Iscriversi in palestra 👍 e andare ad almeno 20 volte **20/20**
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
