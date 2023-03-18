@@ -37,16 +37,16 @@ Dalle letture di quest'anno voglio ricordarmi che:
 Leggere almeno 12 libri, una parte sarà dedicata a soft skill lavorative. **Progresso 12/12**.
 
 1. Danilo Masotti, _Oltre il cantiere, fenomenologia degli umarells_, Pendragon, ed 2016, Bologna.
-2. George Orwell, _1984_, 1949. Leggi la mia recensione [qui](../2022-01-09-1984)
-3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020. Leggi la mia recensione [qui](../2022-01-02-libro-dei-cocktail)
-4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Leggi la mia recensione [qui](../2022-02-20-thinking-in-system)
-5. Alessandro Barrico, _The Game_, Einaudi, 2018. Leggi la mia recensione [qui](../2022-04-01-the-game)
-6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020. Leggi la mia recensione [qui](../2022-06-01-il-genio-non-esiste)
-7. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021. Leggi la mia recensione [qui](../2022-07-01-sapiens)
-8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 Novembre 2011. Leggi la mia recensione [qui](../2022-09-01-laws-of-human-stupidity)
-9. George Orwell, _La fattoria degli animali_, 1945. Leggi la mia recensione [qui](../2022-10-01-la-fattoria-degli-animali)
-10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020.
-11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021.
+2. George Orwell, _1984_, 1949. Ho scritto degli appunti [qui](../2022-01-09-1984)
+3. Luigi Manzo, _Il libro dei cocktails internazionali IBA_, Sandit, ed 2020. Ho scritto degli appunti [qui](../2022-01-02-libro-dei-cocktail)
+4. Donella H. Meadows, _Thinking in Systems_, Chelsea Green Publishing, 2008. Ho scritto degli appunti [qui](../2022-02-20-thinking-in-system)
+5. Alessandro Barrico, _The Game_, Einaudi, 2018. Ho scritto degli appunti [qui](../2022-04-01-the-game)
+6. Barbascura X, _Il genio non esiste (e a volte è un idiota)_, Tlon, 11 Marzo 2020. Ho scritto degli appunti [qui](../2022-06-01-il-genio-non-esiste)
+7. Yuval Noah Harari, _Sapiens, da animali a dei_, Bompiani, ed Marzo 2021. Ho scritto degli appunti [qui](../2022-07-01-sapiens)
+8. Carlo M. Cipolla, _The basic laws of human stupidity_, Il Mulino, 3 Novembre 2011. Ho scritto degli appunti [qui](../2022-09-01-laws-of-human-stupidity)
+9. George Orwell, _La fattoria degli animali_, 1945. Ho scritto degli appunti [qui](../2022-10-01-la-fattoria-degli-animali)
+10. Matthew McConaughey, _Greenlights_, Headline Book Publishing, 2020. Ho scritto degli appunti [qui](../2022-11-01-greenlights)
+11. Allegra De Laureti, _Ikigai il Metodo Giapponese_, Independently published, 13 Agosto 2021. Ho scritto degli appunti [qui](../2022-12-01-ikigai)
 12. Barbascura X, _Saggio erotico sulla fine del mondo. La commedia brutta del disastro ambientale_, Mondadori, 22 Giugno 2021.
 
 ### 🏃 Corsa
