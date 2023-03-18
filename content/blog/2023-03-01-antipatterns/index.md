@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antipatterns, Identification, Refactoring, and Management (Laplant, Neil)"
-date: 2023-02-01 19:24:04 +0100
+date: 2023-03-01 19:24:04 +0100
 tags: ["Libri"]
 published: true
 ---
