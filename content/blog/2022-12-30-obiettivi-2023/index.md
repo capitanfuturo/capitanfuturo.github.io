@@ -32,21 +32,22 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 2/6 + 3/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 3/6 + 3/4**.
 
 #### Work
 
-1. Philip A. Laplante - Colin J. Neil, _Antipatterns Identification, Refactoring, and Management_, Auerbach Publications, 2011.
+1. Philip A. Laplante - Colin J. Neil, _Antipatterns Identification, Refactoring, and Management_, Auerbach Publications, 2011. Ho scritto degli appunti [qui](../2023-03-01-antipatterns)
 2. Jeff Sutherland, Jeffrey Victor Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Currency, 2014.
+3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018.
 
 #### Extra
 
-1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017. Leggi la mia recensione [qui](../2023-02-01-pensieri-lenti-e-veloci)
-2. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018.
-3. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004.
+1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017. Ho scritto degli appunti [qui](../2023-02-01-pensieri-lenti-e-veloci)
+2. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004.
+3. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018.
 
 ### 🏃 Allenamento
 
-- Iscriversi in palestra 👍 e andare ad almeno 20 volte **21/20**
+- Iscriversi in palestra 👍 e andare ad almeno 20 volte **27/20**
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
