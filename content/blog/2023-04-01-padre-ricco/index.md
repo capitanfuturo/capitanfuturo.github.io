@@ -3,7 +3,7 @@ layout: post
 title: "Padre ricco padre povero. (Robert T. Kiyosaki)"
 date: 2023-04-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 
