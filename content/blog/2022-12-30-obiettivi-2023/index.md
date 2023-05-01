@@ -32,19 +32,21 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 3/6 + 3/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 4/6 + 4/4**.
 
 #### Work
 
 1. Philip A. Laplante - Colin J. Neil, _Antipatterns Identification, Refactoring, and Management_, Auerbach Publications, 2011. Ho scritto degli appunti [qui](../2023-03-01-antipatterns)
 2. Jeff Sutherland, Jeffrey Victor Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Currency, 2014.
 3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018.
+4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015.
 
 #### Extra
 
 1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017. Ho scritto degli appunti [qui](../2023-02-01-pensieri-lenti-e-veloci)
-2. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004.
+2. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004. Ho scritto degli appunti [qui](../2023-04-01-padre-ricco)
 3. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018.
+4. Ryan Holiday, _The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph_, Profile Books Ltd, 2015.
 
 ### 🏃 Allenamento
 
