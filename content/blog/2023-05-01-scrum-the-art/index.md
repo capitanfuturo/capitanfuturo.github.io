@@ -3,7 +3,7 @@ layout: post
 title: "Scrum: The Art of Doing Twice the Work in Half the Time. (Jeff Sutherland, Jeffrey Victor Sutherland)"
 date: 2023-05-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 
