@@ -3,7 +3,7 @@ layout: post
 title: "Homo Deus (Harari)"
 date: 2023-06-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 

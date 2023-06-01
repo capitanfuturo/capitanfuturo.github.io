@@ -7,7 +7,7 @@ published: false
 ---
 ## 📚 Introduzione
 
-Robert Cecil Martin è uno dei più autorevoli scrittori di libri dedicati all'arte della programmazione. Quest'anno dopo quasi 12 anni di lavoro in questa industry ho deciso di ripercorrere i "classici" leggendoli uno ad uno. Ho sempre letto articoli ed esempi su specifici passi di questi libri ma credo che per poter migliorare me stesso nel lavoro sia giusto dedicare del tempo alla lettura.
+Robert Cecil Martin è uno dei più autorevoli scrittori di libri dedicati all'arte della programmazione. Nell'industry è conosciuto come il fantomatico **Uncle Bob**. Quest'anno dopo quasi 12 anni di lavoro in questa industry ho deciso di ripercorrere i "classici" leggendoli uno ad uno. Ho sempre letto articoli ed esempi su specifici passi di questi libri ma credo che per poter migliorare me stesso nel lavoro sia giusto dedicare del tempo alla lettura.
 
 Ho iniziato dall'ultimo libro, Clean Architecture, un pò perchè con il tempo questi libri perdono di grip sull'attuale e un pò perchè mi sono trovato di fronte a sfide professionali legate a questo ruolo.
 
