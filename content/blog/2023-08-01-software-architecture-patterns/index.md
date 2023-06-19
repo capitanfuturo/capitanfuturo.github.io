@@ -88,4 +88,6 @@ Libro scorrevole come difficilmente si trovano tra i libri tecnici. Non è molto
 
 ## 🤓 Riferimento
 
+Mark Richards, _Software Architecture Patterns_, O'Reilly, 2015.
+
 > "All architectures become iterative because of unknown unknowns, Agile just recognizes this and does it sooner". (Mark Richards)
