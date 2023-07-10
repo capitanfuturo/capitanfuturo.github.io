@@ -32,7 +32,7 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 5/6 + 4/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 6/6 + 4/4**.
 
 #### Work 💻
 
@@ -41,6 +41,7 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018.
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015.
 5. Camille Fournier, _The Manager's Path_, O'Really, 2017.
+6. John Ousterhout. _A Philosophy of Software Design_.
 
 #### Extra ☕
 

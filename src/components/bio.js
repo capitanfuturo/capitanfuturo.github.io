@@ -52,8 +52,9 @@ const Bio = () => {
           <a href={`https://www.linkedin.com/in/${social?.linkedin || ``}`}>
             [LinkedIn]
           </a>
+          <a href={`https://github.com/${social?.github || ``}`}>[Github]</a>
           <br />
-          <Link to="/tags">Tutti i tag</Link>
+          <Link to="/tags">Tutti i tag </Link>
         </p>
       )}
     </div>
