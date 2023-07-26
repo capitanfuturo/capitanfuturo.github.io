@@ -38,10 +38,10 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 
 1. Philip A. Laplante - Colin J. Neil, _Antipatterns Identification, Refactoring, and Management_, Auerbach Publications, 2011. Ho scritto degli appunti [qui](../2023-03-01-antipatterns)
 2. Jeff Sutherland, Jeffrey Victor Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Currency, 2014. Ho scritto degli appunti [qui](../2023-05-01-scrum-the-art)
-3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018.
+3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018. Ho scritto degli appunti [qui](../2023-07-01-clean-architecture)
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015.
 5. Camille Fournier, _The Manager's Path_, O'Really, 2017.
-6. John Ousterhout. _A Philosophy of Software Design_.
+6. John Ousterhout. _A Philosophy of Software Design_, Yaknyam Press, 2018.
 
 #### Extra ☕
 
