@@ -3,7 +3,7 @@ layout: post
 title: "Software Architecture Patterns (Mark Richards)"
 date: 2023-08-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 ## 📚 Introduzione
 
