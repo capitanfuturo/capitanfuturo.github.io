@@ -2,6 +2,7 @@ version: "3.5"
 
 services:
   blog:
+    container_name: capitanfuturo-blog
     build:
       context: ./
       dockerfile: docker/Dockerfile.local
@@ -9,7 +10,7 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./:/app
+      - ./:/app/
     networks:
       local_network:
         aliases:

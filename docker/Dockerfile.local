@@ -1,8 +1,36 @@
-FROM node:14.20.0
-WORKDIR /app
+# FROM node:20.1.0-alpine3.17
 
-COPY package*.json ./
+# RUN apk add --no-cache \
+#     git \
+#     util-linux openssl sudo \
+#     python3 g++ \
+#     autoconf automake libtool gcc make musl-dev file pkgconfig nasm \
+#     vips vips-dev \
+#     && rm -fR /var/cache/apk/*
 
-RUN npm install
+FROM node:20.1.0
 
-CMD [ "npm", "start"]
+RUN apt-get update && apt-get -y install \
+    git \
+    openssl \
+    python3 \
+    g++ \
+    autoconf \
+    automake \
+    libtool \
+    gcc \
+    make \
+    file \
+    nasm \
+    libvips
+
+WORKDIR /app/
+
+RUN yarn global add gatsby-cli@4.25.0
+COPY package.json ./
+
+EXPOSE 8000
+
+COPY ./docker/docker-entrypoint.local.sh /docker-entrypoint.local.sh
+RUN chmod +x /docker-entrypoint.local.sh
+ENTRYPOINT /docker-entrypoint.local.sh
