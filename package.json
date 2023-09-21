@@ -32,7 +32,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-helmet": "^6.1.0",
-    "sharp": "^0.32.5",
+    "sharp": "^0.32.6",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75"
   },

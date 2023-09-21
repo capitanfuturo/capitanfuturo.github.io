@@ -10,7 +10,8 @@
 
 FROM node:20.1.0
 
-RUN apt-get update && apt-get -y install \
+RUN apt-get update && \
+    apt-get -y install \
     git \
     openssl \
     python3 \
@@ -22,12 +23,18 @@ RUN apt-get update && apt-get -y install \
     make \
     file \
     nasm \
-    libvips
+    libvips \
+    --no-install-recommends && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app/
 
 RUN yarn global add gatsby-cli@4.25.0
 COPY package.json ./
+
+RUN yarn add sharp && \
+    yarn install
 
 EXPOSE 8000
 
