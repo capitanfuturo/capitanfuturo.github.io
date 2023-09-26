@@ -11,7 +11,7 @@ published: true
 E' arrivato anche ques'anno il momento fatidico dei bilanci. Approfitto di questo post per fare il punto dell'anno passato e per mettere in chiaro gli obiettivi del 2023 con qualche considerazione personale.
 Rispetto agli obiettivi del 2022 posso essere **fiero** di quello che ho fatto. E' stato un anno caratterizzato da diversi cambiamenti tra cui quello di aver **venduto la mia prima casa**. Ho portato a casa quasi tutti gli obiettivi eccetto quelli fisici per i quali mi sono fermato a circa il 30%.
 Ho provato a collaborare, seppur nel mio piccolo, ad un progetto open source, **dBeaver**, condividendo delle traduzioni. Ho imparato molto su git e sulla community. Ho trovato delle persone molto disponibili ad aiutarmi e a consigliarmi su come integrare i miei contributi al progetto.
-Ho letto 12 libri, alcuni molto interessanti come: _1984_ di Geore Orwell, _The Game_ di Alessandro Barrico,  _Sapiens, da animali a dei_ di Harari.
+Ho letto 12 libri, alcuni molto interessanti come: _1984_ di Geore Orwell, _The Game_ di Alessandro Barrico, _Sapiens, da animali a dei_ di Harari.
 
 Da questo anno mi porto a casa i seguenti spunti:
 
@@ -32,7 +32,7 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 6/6 + 4/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 7/6 + 4/4**.
 
 #### Work 💻
 
@@ -41,17 +41,18 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018. Ho scritto degli appunti [qui](../2023-07-01-clean-architecture)
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015. Ho scritto degli appunti [qui](../2023-08-01-software-architecture-patterns)
 5. Camille Fournier, _The Manager's Path_, O'Really, 2017.
-6. John Ousterhout. _A Philosophy of Software Design_, Yaknyam Press, 2018.
+6. John Ousterhout, _A Philosophy of Software Design_, Yaknyam Press, 2018.
+7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf,2020.
 
 #### Extra ☕
 
 1. Daniel Kahneman, _Pensieri lenti e veloci_, Mondadori, 22 Febbraio 2017. Ho scritto degli appunti [qui](../2023-02-01-pensieri-lenti-e-veloci)
 2. Robert T. Kiyosaki, _Padre ricco padre povero_, Gribaudi, 2004. Ho scritto degli appunti [qui](../2023-04-01-padre-ricco)
 3. Yuval Noah Harari, _Homo Deus: Breve storia del futuro_, Bompiani, 2018. Ho scritto degli appunti [qui](../2023-06-01-home-deus)
-4. Ryan Holiday, _The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph_, Profile Books Ltd, 2015.
+4. Ryan Holiday, _The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph_, Profile Books Ltd, 2015. Ho scritto degli appunti [qui](../2023-09-01-the-obstacle-is-the-way)
 
 ### 🏃 Allenamento
 
-- Iscriversi in 🏋🏽‍♀️ palestra 👍 e andare ad almeno 20 volte **65/20**.
+- Iscriversi in 🏋🏽‍♀️ palestra 👍 e andare ad almeno 20 volte **71/20**, ultimo allenamento il 26/09.
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)

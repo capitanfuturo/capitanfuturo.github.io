@@ -5,6 +5,7 @@ date: 2023-07-01 19:24:04 +0100
 tags: ["Libri"]
 published: true
 ---
+
 ## 📚 Introduzione
 
 Robert Cecil Martin è uno dei più autorevoli scrittori di libri dedicati all'arte della programmazione. Nell'industry è conosciuto come il fantomatico **Uncle Bob**. Quest'anno dopo quasi 12 anni di lavoro in questa industry ho deciso di ripercorrere i "classici" leggendoli uno ad uno. Ho sempre letto articoli ed esempi su specifici passi di questi libri ma credo che per poter migliorare me stesso nel lavoro sia giusto dedicare del tempo alla lettura.
@@ -25,13 +26,13 @@ Da questo libro mi porto a casa una strutturata descrizione degli utlimi 20 anni
 
 1. **Structured programming** (Edsger Wybe Dijkstra nel 1968) che impone disciplina sul direct transfer of control
 2. **Object Oriented Programming** (Ole Johan Dahl and Kristen Nygaard nel 1966) che impone disciplina sul indirect transfer of control. Le proprietà principali sono:
-    1. encapsulation
-    2. inheritance
-    3. polymorphism, che ci porta al concetto di **dependancy inversion**
+   - encapsulation
+   - inheritance
+   - polymorphism, che ci porta al concetto di **dependancy inversion**
 3. **Functional programming** (Alonzo Church nel 1936) impone disciplina sulle assegnazioni perchè in linea teorica non sono previste in questo tipo di programmazione e le variabili sono immutabili. I principali vantaggi di questo paradigma sono:
-    1. NO race conditions
-    2. NO deadlock conditions
-    3. NO concurrent update
+   - NO race conditions
+   - NO deadlock conditions
+   - NO concurrent update
 
 ### Principi di Code Design - SOLID
 
@@ -48,7 +49,7 @@ I componenti sono unità di deployment come jar, DLL o servizi e su queste entit
 1. **RRP - Reuse / Release Equivalence Principle**: la granularità del riuso è uguale alla granularità del rilascio.
 2. **CCP - Common Closure Principle**: raggruppa nei componenti quelle classi che cambiano per lo stesso motivo nello stesso tempo. Questo si lega al SRP - single responsability principle.
 3. **CRP - Common Reuse Principle**: non forzare l'utilizzatore di un componente a dipendere da cose che non necessita, legato al ISP - interface segregation principle.
-Questi 3 principi possono essere disposti un diagramma di tensione, un triangolo nel quale i componenti si collocano. In generale non si possono ottenere contemporaneamente i 3 principi ma un trade-off dei 3 a seconda delle necessità.
+   Questi 3 principi possono essere disposti un diagramma di tensione, un triangolo nel quale i componenti si collocano. In generale non si possono ottenere contemporaneamente i 3 principi ma un trade-off dei 3 a seconda delle necessità.
 
 Altri 3 principi esposti sono:
 

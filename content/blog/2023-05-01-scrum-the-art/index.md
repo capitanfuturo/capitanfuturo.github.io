@@ -5,6 +5,7 @@ date: 2023-05-01 19:24:04 +0100
 tags: ["Libri"]
 published: true
 ---
+
 ## 📚 Introduzione
 
 A quasi 4 anni dalla certificazione come Scrum Master e consigliato da un collega che ricopre questo ruolo da diversi anni ho deciso di leggere questo libro scritto a quattro mani da uno dei creatori del metodo Scrum e promotore del manifesto Agile.
@@ -17,26 +18,32 @@ Nel mio percorso lavorativo ho vissuto la maggior parte dei miei progetti con me
 
 Per un dettaglio del framework Scrum penso che sia più che esaustivo quanto scritto in [PSM-I Certificazione Scrum Master livello 1](../2019-12-16-psm-i-scrum-master). Qua voglio appuntarmi alcuni spunti.
 
-- Quando si deve gestire molta incertezza è meglio non pianificare tutto al dettaglio ma affrontare prima le cose che portano più valore al cliente seguendo il principio di Pareto 80/20, 80% del valore si consegna con il 20% delle funzionalità richieste.
-- Il team nel suo complesso è il vero motore dello sviluppo. Solo in team si può costruire l'ambiente per il milioramento continuo di ogni individuo. Il team deve essere cross funzionale e accrescere le proprie compentenze se necessario. Le caratteristiche sono:
-    1. Transcendent
-    2. Autonomous
-    3. Cross-Functional
-- Non indovinare cosa fare ma applica alla base il ciclo di Deming PCDA:
-    1. Plan
-    2. Do
-    3. Check
-    4. Act
-- Il lavoro dovrebbe piacere e dovrebbe essere espressione di un obiettivo più grande. La felicità nel lavoro rende le scelte più facili e le soluzioni dove necessario più creative.
-- Ispeziona il lavoro, rendilo trasparente, adattalo al cambiamento se è il valore che guida.
-- Fallisci velocemente così puoi recuperare in tempo. Il tempo è una risorsa finita e non va sprecato. Procedi per sprint time boxed e fa una cosa alla volta e falla subito giusta.
-- Pianifica cose realizzabili e raggiungibili. Pianifica solo quello che serve. Non pianificare anni avvenire, concentrati sul breve periodo e alimenta il backlog.
+- Quando si deve gestire molta **incertezza** è meglio non pianificare tutto al dettaglio ma affrontare prima le cose che portano più valore al cliente seguendo il **principio di Pareto 80/20**, 80% del valore si consegna con il 20% delle funzionalità richieste.
+- Il team nel suo complesso è il vero motore dello sviluppo. Solo in team si può costruire l'ambiente per il **miglioramento continuo** di ogni individuo. Il team deve essere **cross funzionale** e accrescere le proprie compentenze se necessario. Le caratteristiche sono:
+
+  - Transcendent
+  - Autonomous
+  - Cross-Functional
+
+- Non indovinare cosa fare ma applica alla base il **ciclo di Deming PCDA**:
+
+  - Plan
+  - Do
+  - Check
+  - Act
+
+- Il lavoro dovrebbe piacere e dovrebbe essere espressione di un obiettivo più grande. La **felicità nel lavoro** rende le scelte più facili e le soluzioni dove necessario più creative.
+- Ispeziona il lavoro, rendilo **trasparente**, adattalo al **cambiamento** se è il valore che guida.
+- **Fallisci velocemente** così puoi recuperare in tempo. Il tempo è una risorsa finita e non va sprecato. Procedi per **sprint time boxed** e fa una cosa alla volta e falla subito giusta.
+- Pianifica cose realizzabili e raggiungibili. **Pianifica solo quello che serve**. Non pianificare anni avvenire, concentrati sul breve periodo e alimenta il backlog.
 - Lo spreco è un crimine:
-    1. Muri – waste through unreasonableness
-    2. Mura – waste through inconsistency
-    3. Muda – waste through outcomes
+
+  - **Muri** – waste through unreasonableness
+  - **Mura** – waste through inconsistency
+  - **Muda** – waste through outcomes
+
 - Completare un task a metà e non averlo completato affatto.
-- Scrivi le user stories. Le narrazioni raccontano meglio le funzionalità: As an X, I want Y, so that Z.
+- Scrivi le **user stories**. Le narrazioni raccontano meglio le funzionalità: As an X, I want Y, so that Z.
 
 ### Come partire da zero 101
 
