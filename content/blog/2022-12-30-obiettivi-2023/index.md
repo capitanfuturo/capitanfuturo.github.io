@@ -28,7 +28,7 @@ Dalle letture di quest'anno voglio ricordarmi che:
 
 ## Obiettivi 2023
 
-Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e spero efficaci per il percorso di crescita continua.
+Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e qualitativi. Spero siano efficaci per il mio percorso di crescita continua.
 
 ### :books: Lettura e :rocket: Lifelong learning
 
@@ -42,7 +42,7 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015. Ho scritto degli appunti [qui](../2023-08-01-software-architecture-patterns)
 5. Camille Fournier, _The Manager's Path_, O'Really, 2017.
 6. John Ousterhout, _A Philosophy of Software Design_, Yaknyam Press, 2018.
-7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf,2020.
+7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf, 2020.
 
 #### Extra ☕
 
@@ -53,6 +53,6 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 
 ### 🏃 Allenamento
 
-- Iscriversi in 🏋🏽‍♀️ palestra 👍 e andare ad almeno 20 volte **71/20**, ultimo allenamento il 26/09.
+- Iscriversi in 🏋🏽‍♀️ palestra 👍 ed andarci almeno 20 volte **71/20**, ultimo allenamento il 26/09.
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
