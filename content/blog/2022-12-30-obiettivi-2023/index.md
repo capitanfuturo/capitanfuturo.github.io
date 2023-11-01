@@ -53,6 +53,6 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 
 ### 🏃 Allenamento
 
-- Iscriversi in 🏋🏽‍♀️ palestra 👍 ed andarci almeno 20 volte **71/20**, ultimo allenamento il 26/09.
+- Iscriversi in 🏋🏽‍♀️ palestra 👍 ed andarci almeno 20 volte **82/20**, ultimo allenamento il 19/10.
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
