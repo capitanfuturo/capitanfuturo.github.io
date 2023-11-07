@@ -40,8 +40,8 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 2. Jeff Sutherland, Jeffrey Victor Sutherland, _Scrum: The Art of Doing Twice the Work in Half the Time_, Currency, 2014. Ho scritto degli appunti [qui](../2023-05-01-scrum-the-art)
 3. Robert C. Martin, _Clean Architecture_, Prentice Hall, 2018. Ho scritto degli appunti [qui](../2023-07-01-clean-architecture)
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015. Ho scritto degli appunti [qui](../2023-08-01-software-architecture-patterns)
-5. Camille Fournier, _The Manager's Path_, O'Really, 2017.
-6. John Ousterhout, _A Philosophy of Software Design_, Yaknyam Press, 2018.
+5. Camille Fournier, _The Manager's Path_, O'Really, 2017.  Ho scritto degli appunti [qui](../2023-10-01-the-managers-path)
+6. John Ousterhout, _A Philosophy of Software Design_, Yaknyam Press, 2018. Ho scritto degli appunti [qui](../2023-11-01-a-philosophy-of-software-design)
 7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf, 2020.
 
 #### Extra ☕

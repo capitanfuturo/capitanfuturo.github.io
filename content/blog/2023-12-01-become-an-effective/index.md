@@ -92,12 +92,84 @@ Ricorda che come manager puoi andare a soddisfare un percorso verso l'alto della
 - stima: rispetto, realizzazione
 - autorealizzazione: problem solving, creatività, accettazione, assenza di pregiudizi
 
-Jean Piaget ritiene che si possa aaprendere meglio se il percorso è auto-determinato. Per questo come manager è bene costruire il percorso di crescita insieme. Non esiste solo il binario della crescita economica ma guardando anche la piramide di prima esiste anche il binario delle competenze che portano all'autorealizzazione.
+Jean Piaget ritiene che si possa apprendere meglio se il percorso è auto-determinato. Per questo come manager è bene costruire il percorso di crescita insieme. Non esiste solo il binario della crescita economica ma guardando anche la piramide di prima esiste anche il binario delle competenze che portano all'autorealizzazione.
+
+#### Albero delle skill
+
+Nel disegnare il percorso che possa soddisfare la piramide di maslow è utile scrivere un albero delle competenze che permetta di designare un percorso di miglioramento per ognuno, manager compreso. Questa attività si può fare insieme durante i 1-1 e può essere uno spunto di discussione sempre ricordando che solitamente gli sviluppatori software si posizionano tra 2 approcci:
+
+* **Il modello a Cattedrale**: il software può essere free e open source ma lo sviluppo viene portato avanti solo da "maghi emeriti". Un esempio di questo sviluppo è il compilatore C. Di fronte a questi dev come manager si deve cercare di dare stabilità, focus, purismo e valorizzare il know how del singolo come guru per guidare gli latri del team su quel particolare argomento.
+
+* **Il modello a Bazar**: il software è il frutto del contributo di tutti. Questi sviluppatori spesso desiderano varietà, caos, cambiamento. Desiderano conoscere il più possibile per iterazioni e prototipi.
+
+Come manager ovviamente si deve fare sintesi di questi aspetti nel team.
+
+### Performance review
+
+Un altro incontro importante è quello della review di performance dei componenti del team. L'autore consiglia di organizzarli ogni 6 mesi posizionandoli a Giugno e Dicembre e va iniziato ad essere preparato almeno 3 settimane prima. Un'idea potrebbe essere quello di strutturare una pagina condivisa in 3 parti:
+
+1. Le tue osservazioni su cosa è stato raggiunto e dove procedere
+2. Le osservazioni del collega sugli stessi punti
+3. Quello che emerge durante l'incontro
+
+Mentre temporalmente potrebbe essere diviso in 3 parti:
+
+1. Un momento di riflessione sul periodo appena passato
+2. Un momneto di discussione sul futuro prossimo
+3. I goal che si possono raggiungere nel prossimo periodo
+
+Se è necessario parlare di denaro è meglio posizionarlo sull'incontro di Dicembre. Sarebbe bene arrivare ben preparati con le percentuali e i motivi che hanno reso possibile o no un aumento.
+
+### Interview (Colloqui)
+
+Su questo tema l'autore è molto chiaro ed espone dei semplici punti:
+
+* La RAL deve essere chiara da subito così come la forbice che è disposta l'azienda a spendere per il ruolo che cerca
+* I benefit accessori come snack gratis, caffè o altro non hanno lo stesso peso del salario
+* Non è efficace costruire un team di sole star, ma cercare un buon equilibrio
+* Dire da subito come si svilgerà il colloquio e non essere più di due persone per non mettere in soggezione il cadidato
+* Introduci l'azienda e cosa fate
+* Domanda del ruolo passato o di cosa stanno facendo attualmente, quali responsabilità
+
+### Licenziamenti
+
+Su questo aspetto il punto focale è capire se si vuole trattenere il collega magari proponendo una controfferta o se invece vale la peena lasciar andare il collega. Così come un altro punto importante è capire a valle degli incontri di performance come gestire un collega che sta sotto performando rispetto al resto del team. In questo caso è necessario costruire un percorso per riportare a livelli buoni la performance del collega cercando di capire quali sono le cause e gli impedimenti esterni o interni che bloccano una buona riuscita. Ovvio che in questi casi la discrezione deve essere massima e si deve mettere a proprio agio tutti.
+
+### Mentoring e coaching
+
+Sono due aspetti di un buon manager o di chi vuole intraprendere questo percorso:
+
+* Mentoring è l'insegnamento di una specifica skill 
+* Il coaching invece è l'aiuto che si da nell'esplorare e nel risolvere problemi.
+
+Potrebbe essere interessante costruire un **matrice delle skill** per individuare chi può essere un buon mentore per il resto del team e costruire dei momenti formali di condivisione delle conoscenze. Mentre per il coaching uno strumento consigliato è il **modello GROW**:
+
+- **Goals**: quali obiettivi si vuole raggiungere. Obiettivi devono essere chiari e misurabili come per il **modello SMART**
+- **Reality**: analizzare lo stato attuale
+- **Options**: capire quali sono le strategie che si possono percorrere
+- **Will**: volontà, piano di azione che risponde alle domande: When? What? Where? Who? How?
+
+In questo percorso l'autore ricorda di tenere sempre a mente la diatriba tra **Effetto Dunning-Kruger** e **Sindrome dell'impostore** .
+
+### Sviluppa in maniera pragmatica
+
+Qui c'è un mix di manifesto [Agile](2019-12-01-psm-i-scrum-master), [Clean Architecture](2023-07-01-clean-architecture) quindi rimando a quei testi più dedicati al tema. Quello che voglio annotare invece è che alla base c'è la comunicazione e quest avviene in modalità diverse e spetta a noi pilotare il giusto modo a seconda dell'occasione:
+
+- Unicast, che manda un messaggio ad un signolo nodo
+- Broadcast, che manda un messaggio a tutti i nodi della rete
+- Multicast, che manda il messaggio ad un gruppo di nodi interessati
+- Anycast, che manda un messaggio ad un nodo fuori dal gruppo
+
+Nel 1967 l'informatico Melvin Conway disse che _"le organizzazione che progettano sistemi sono vincolate a produrre progetti che sono copie della struttura comunicativa dell'organizzazione stessa"_. Questa viene detta anche **Legge di Conway**.
 
 ## 🍷 Conclusione
+
+Questo è un manuale operativo, forse il migliore che abbia letto fino adesso. Non tratta del percorso che si può intraprendere nella nostra industry per arrivare da dev a CTO come invece in [The manager path](../2023-10-01-the-managers-path) ma bensì va a fondo su aspetti molto operativi e di buon senso nella costruzione di una figura professionale come engineer manager. Se devo trovare un aspetto negativo verso la fine l'autore butta un pò troppi concetti in voga come l'[Ikigai](../2022-12-01-ikigai) o addirittura riferimenti a Daniel Kahneman nel suo [Pensieri lenti e veloci](2023-02-01-pensieri-lenti-e-veloci).
+
+Da riprendere in mano all'occorenza.
 
 ## 🤓 Riferimento
 
 James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf, 2020. [Amazon](https://www.amazon.it/Become-Effective-Software-Engineering-Manager-ebook/dp/B08GF7P3G8/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1695987600&sr=8-2).
 
-> "". ()
+> "If opportunity doesn’t knock, build a door". (Milton Berle)
