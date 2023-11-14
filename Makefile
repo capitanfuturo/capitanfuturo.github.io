@@ -6,7 +6,7 @@ help:
 	
 ##start: @ Start the blog
 start: 
-	docker-compose up
+	docker compose up
 
 ##code: @ Open vscode
 code: 
