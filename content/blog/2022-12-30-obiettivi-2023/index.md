@@ -6,7 +6,7 @@ tags: ["Personale"]
 published: true
 ---
 
-## :trophy: Bilancio 2022
+## 🏆 Bilancio 2022
 
 E' arrivato anche ques'anno il momento fatidico dei bilanci. Approfitto di questo post per fare il punto dell'anno passato e per mettere in chiaro gli obiettivi del 2023 con qualche considerazione personale.
 Rispetto agli obiettivi del 2022 posso essere **fiero** di quello che ho fatto. E' stato un anno caratterizzato da diversi cambiamenti tra cui quello di aver **venduto la mia prima casa**. Ho portato a casa quasi tutti gli obiettivi eccetto quelli fisici per i quali mi sono fermato a circa il 30%.
