@@ -32,7 +32,7 @@ Quest'anno voglio fissare meno obiettivi dal punto quantitativo ma più chiari e
 
 ### :books: Lettura e :rocket: Lifelong learning
 
-Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 7/6 + 4/4**.
+Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri extra. **Progresso 8/6 + 4/4**.
 
 #### Work 💻
 
@@ -42,7 +42,8 @@ Leggere almeno 6 libri dedicati a temi lavorativi, hard e soft skill + 4 libri e
 4. Mark Richards, _Software Architecture Patterns_, O'Really, 2015. Ho scritto degli appunti [qui](../2023-08-01-software-architecture-patterns)
 5. Camille Fournier, _The Manager's Path_, O'Really, 2017.  Ho scritto degli appunti [qui](../2023-10-01-the-managers-path)
 6. John Ousterhout, _A Philosophy of Software Design_, Yaknyam Press, 2018. Ho scritto degli appunti [qui](../2023-11-01-a-philosophy-of-software-design)
-7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf, 2020.
+7. James Stanier, _Become an Effective Software Engineering Manager_, Pragmatic Bookshelf, 2020. Ho scritto degli appunti [qui](../2023-12-01-become-an-effective)
+8. Martin Fowler, _Refactoring: Improving the Design of Existing Code_,  Addison-Wesley Professional, 2° edizione, 2020.
 
 #### Extra ☕
 

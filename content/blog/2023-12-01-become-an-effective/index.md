@@ -8,10 +8,10 @@ published: false
 
 ## 📚 Introduzione
 
-Da quasi un anno ho avuto la fortuna di iniziare un percorso professionale di leadership che mi ha portato anche a cambiare azienda e spingermi in una nuova avventura professionale. Credo che alla basa di questo processo ci debba essere l'acquisizione continua di competenze e uno dei canali che più mi aiutano sono la lettura di testi specifici.
-Questo libro è uno di quelli che uniscono sia aspetti pratici che teorici. L'autore parte dal primo giorno in azienda come manager e guida il lettore passo passo nelle attività che possono aiutare per costruire e alimnentare il team di lavoro.
+Da quasi un anno ho avuto la fortuna di iniziare un percorso professionale di leadership che mi ha portato anche a cambiare azienda e a spingermi in una nuova avventura professionale. Credo che alla base di questo processo ci debba essere l'acquisizione continua di competenze e uno dei canali che più mi aiuta in questo è la lettura di testi specifici.
+Questo libro è uno di quelli che uniscono sia aspetti pratici che teorici. L'autore parte dal primo giorno in azienda come manager e guida il lettore passo passo nelle attività che possono aiutare a costruire e alimnentare il team di lavoro.
 
-Come dice l'autore, ad ingegneria infomratica ci hanno insegnato a gestire codice, architetture e computers ma non le persone. Purtroppo però i computer non scrivono software di qualità, almeno fintanto che l'AI non ci supererà. Per farlo sono necessarie le persone ed in particolare persone di qualità.
+Come dice l'autore, ad ingegneria informatica ci hanno insegnato a gestire codice, architetture e computer ma non le persone. Purtroppo però i computer non scrivono software di qualità, almeno fintanto che l'AI non ci supererà. Per farlo sono necessarie le persone ed in particolare persone di qualità.
 
 ## 🚀 Cosa mi porto a casa da questa lettura
 
@@ -39,7 +39,7 @@ Crea a questo punto uno **snapshot** in modo da ottenere **allineamento sulle os
 
 ### Organizza il tuo tempo
 
-L'obiettivo è quello di mantenere poche informazioni e non dimneticare nulla. Categorizzare le attività e misurare gli output. I tre strumenti principali sono:
+L'obiettivo è quello di mantenere poche informazioni e non dimenticare nulla. Categorizzare le attività e misurare gli output. I tre strumenti principali sono:
 
 - **Calendario**: reccoglie quello che stai facendo con il tuo tempo. Usalo solo per organizzare il tuo tempo e non le attività da fare. Metti a calendario solo: **meeting e attività che indicano che sei occupato** in modo da riservare dei blocchi per le tue attività su cui vuoi avere il pieno focus. Ricorda di **usare i reminders**.
 - **Todo list**: è l'unico posto dove vivono le attività. Sfrutta le funzionalità di attività ricorrenti. Andy Grove, fondatore e CEO di Intel organizzava le attività manageriali in 4 categorie:
@@ -62,8 +62,8 @@ Questo tema è sempre cruciale nei rapporti con le persone e l'autore da alcuni 
 - Cerca sempre di far parlare l'altro, tu sei un facilitatore
 - Rispetta il modo con l'altro vuole comunicare
 - Sii coerente con il tuo ruolo
-- Sii capace di ocmunicare i feeedback
-- Evita l'overcommunication e i fronzoli
+- Sii capace di comunicare i feeedback
+- Evita l'over-comunication e i fronzoli
 
 ### Delegare
 
@@ -98,9 +98,8 @@ Jean Piaget ritiene che si possa apprendere meglio se il percorso è auto-determ
 
 Nel disegnare il percorso che possa soddisfare la piramide di maslow è utile scrivere un albero delle competenze che permetta di designare un percorso di miglioramento per ognuno, manager compreso. Questa attività si può fare insieme durante i 1-1 e può essere uno spunto di discussione sempre ricordando che solitamente gli sviluppatori software si posizionano tra 2 approcci:
 
-* **Il modello a Cattedrale**: il software può essere free e open source ma lo sviluppo viene portato avanti solo da "maghi emeriti". Un esempio di questo sviluppo è il compilatore C. Di fronte a questi dev come manager si deve cercare di dare stabilità, focus, purismo e valorizzare il know how del singolo come guru per guidare gli latri del team su quel particolare argomento.
-
-* **Il modello a Bazar**: il software è il frutto del contributo di tutti. Questi sviluppatori spesso desiderano varietà, caos, cambiamento. Desiderano conoscere il più possibile per iterazioni e prototipi.
+- **Il modello a Cattedrale**: il software può essere free e open source ma lo sviluppo viene portato avanti solo da "maghi emeriti". Un esempio di questo sviluppo è il compilatore C. Di fronte a questi dev come manager si deve cercare di dare stabilità, focus, purismo e valorizzare il know how del singolo come guru per guidare gli latri del team su quel particolare argomento.
+- **Il modello a Bazar**: il software è il frutto del contributo di tutti. Questi sviluppatori spesso desiderano varietà, caos, cambiamento. Desiderano conoscere il più possibile per iterazioni e prototipi.
 
 Come manager ovviamente si deve fare sintesi di questi aspetti nel team.
 
@@ -124,12 +123,12 @@ Se è necessario parlare di denaro è meglio posizionarlo sull'incontro di Dicem
 
 Su questo tema l'autore è molto chiaro ed espone dei semplici punti:
 
-* La RAL deve essere chiara da subito così come la forbice che è disposta l'azienda a spendere per il ruolo che cerca
-* I benefit accessori come snack gratis, caffè o altro non hanno lo stesso peso del salario
-* Non è efficace costruire un team di sole star, ma cercare un buon equilibrio
-* Dire da subito come si svilgerà il colloquio e non essere più di due persone per non mettere in soggezione il cadidato
-* Introduci l'azienda e cosa fate
-* Domanda del ruolo passato o di cosa stanno facendo attualmente, quali responsabilità
+- La RAL deve essere chiara da subito così come la forbice che è disposta l'azienda a spendere per il ruolo che cerca
+- I benefit accessori come snack gratis, caffè o altro non hanno lo stesso peso del salario
+- Non è efficace costruire un team di sole star, ma cercare un buon equilibrio
+- Dire da subito come si svilgerà il colloquio e non essere più di due persone per non mettere in soggezione il cadidato
+- Introduci l'azienda e cosa fate
+- Domanda del ruolo passato o di cosa stanno facendo attualmente, quali responsabilità
 
 ### Licenziamenti
 
@@ -139,8 +138,8 @@ Su questo aspetto il punto focale è capire se si vuole trattenere il collega ma
 
 Sono due aspetti di un buon manager o di chi vuole intraprendere questo percorso:
 
-* Mentoring è l'insegnamento di una specifica skill 
-* Il coaching invece è l'aiuto che si da nell'esplorare e nel risolvere problemi.
+- Mentoring è l'insegnamento di una specifica skill.
+- Il coaching invece è l'aiuto che si da nell'esplorare e nel risolvere problemi.
 
 Potrebbe essere interessante costruire un **matrice delle skill** per individuare chi può essere un buon mentore per il resto del team e costruire dei momenti formali di condivisione delle conoscenze. Mentre per il coaching uno strumento consigliato è il **modello GROW**:
 
@@ -149,7 +148,7 @@ Potrebbe essere interessante costruire un **matrice delle skill** per individuar
 - **Options**: capire quali sono le strategie che si possono percorrere
 - **Will**: volontà, piano di azione che risponde alle domande: When? What? Where? Who? How?
 
-In questo percorso l'autore ricorda di tenere sempre a mente la diatriba tra **Effetto Dunning-Kruger** e **Sindrome dell'impostore** .
+In questo percorso l'autore ricorda di tenere sempre a mente la diatriba tra l'**Effetto Dunning-Kruger** e la **Sindrome dell'impostore** .
 
 ### Sviluppa in maniera pragmatica
 
@@ -160,7 +159,7 @@ Qui c'è un mix di manifesto [Agile](2019-12-01-psm-i-scrum-master), [Clean Arch
 - Multicast, che manda il messaggio ad un gruppo di nodi interessati
 - Anycast, che manda un messaggio ad un nodo fuori dal gruppo
 
-Nel 1967 l'informatico Melvin Conway disse che _"le organizzazione che progettano sistemi sono vincolate a produrre progetti che sono copie della struttura comunicativa dell'organizzazione stessa"_. Questa viene detta anche **Legge di Conway**.
+Nel 1967 l'informatico Melvin Conway disse che _"le organizzazioni che progettano sistemi sono vincolate a produrre progetti che sono copie della struttura comunicativa dell'organizzazione stessa"_. Questa viene detta anche **Legge di Conway**.
 
 ## 🍷 Conclusione
 
