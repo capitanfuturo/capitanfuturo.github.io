@@ -61,7 +61,7 @@ Devo dire che fortunatamente dopo quasi 15 anni di programmazione molti pattern 
 * Sollevare eccezioni al posto di codici di errore
 * Usare le asserzioni
 
-### 💔Quando non scrivere un refactoring
+### 💔 Quando non scrivere un refactoring
 
 1. Quando non si sa bene come farlo
 2. Se i vantaggi a lungo termine non ne valgono la pena
