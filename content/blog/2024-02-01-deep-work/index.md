@@ -3,7 +3,7 @@ layout: post
 title: "Deep work, Rules for Focused Success in a Distracted World (Cal Newport)"
 date: 2024-02-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
