@@ -25,7 +25,7 @@ Sto impegnandomi molto sul piano umano e sono sicuro che questo mi proietti su u
 
 Da questo anno mi porto a casa i seguenti spunti:
 
-* 📈 L'**inflazione** è ancora tema di dibattito e lo sarà per tutto il 2024.
+* 📈 L'**inflazione** è ancora tema di dibattito e lo sarà per tutto il 2024. A questo la FED e la BCE hanno risposto alzando i tassi di interesse... vedremo se ci saranno i primi cali nel 2024.
 * 💣 La **guerra** in Ucraina e in Israele ci ricorda che superpotenze e squilibri geopolitici vengono pagati dai civili. In particolare la guerra in Ucraina non sta andando bene per le forze occidentali e rimarca il fatto che l'Europa andrebbe unita oltre al mercato unico e che alcuni stati come la Russia hanno bisogno di uno stato di guerra per mantenere lo status quo interno.
 * 💻 L'**intelligenza artificiale** ha fatto un grande passo quest'anno e ha rivelato un mondo che non è alla portata di tutti. Sarà interessante capire come evolveranno gli LLM, penso soprattutto ai modelli piccoli, performanti e open source che potrebbero essere applicati ai più disparati dispositivi. Ora credo che ci sia lo spazio per iniziare a valutare non solo alle performance dei fornitori di HW e modelli ma anche alle integrazioni nei prodotti consumer.
 * 🌍 Nel mondo le **aziende private** hanno sempre più rilevanza sulle nostre vite. Sono diventate delle superpotenze al pari di stati minori dal punto di vista economico ma molto più rilevanti dal punto di vista politico. Le big tech dell'indice SP500 trainano l'economia statunitense e da sole cubano come le borse di diversi stati sovrani.
@@ -37,16 +37,17 @@ Quest'anno sarà un anno molto orientato al percorso di lavoro che ho intrarpeso
 
 ### 📚 Lettura e 🚀 Lifelong learning
 
-Leggere almeno 6 libri. **Progresso 1/6**.
+Leggere almeno 6 libri. **Progresso 2/6**.
 
 1. Cal Newport, _Deep work, Rules for Focused Success in a Distracted World_, Piatkus, 2016.
+2. Gene Kim, Kevin Behr, George Spafford, _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_, It Revolution Pr, 27 febbraio 2018.
 
 ### 🏃 Allenamento
 
-* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍.
+* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 16 sessioni al 09/02/2024**
 
 ### 👔 Network
 
-* Quest'anno voglio migliorare la mia attivitò di networking uscendo dalla mia confort zone e provando a conoscere persone nuove nel mio ambito lavorativo.
+* Quest'anno voglio migliorare la mia attivitò di networking uscendo dalla mia confort zone e provando a conoscere persone nuove nel mio ambito lavorativo e non solo.
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
