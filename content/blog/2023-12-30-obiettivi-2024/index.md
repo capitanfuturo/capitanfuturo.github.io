@@ -31,20 +31,22 @@ Da questo anno mi porto a casa i seguenti spunti:
 * 🌍 Nel mondo le **aziende private** hanno sempre più rilevanza sulle nostre vite. Sono diventate delle superpotenze al pari di stati minori dal punto di vista economico ma molto più rilevanti dal punto di vista politico. Le big tech dell'indice SP500 trainano l'economia statunitense e da sole cubano come le borse di diversi stati sovrani.
 * 💯 Bisogna **credere** in se stessi, ed investire in se. Dare impatto nel proprio lavoro ed aiutare i più giovani perchè anche loro possano trovare terreno fertile dove crescere. Ci sono molti più giovani in gamba di quello che ci facciano credere.
 
-## Obiettivi 2024
+## 🎯 Obiettivi 2024
 
 Quest'anno sarà un anno molto orientato al percorso di lavoro che ho intrarpeso. Avrò poco tempo per me ma voglio in ogni caso fissare delle asticelle minime per il mio percorso di crescita continua.
 
 ### 📚 Lettura e 🚀 Lifelong learning
 
-Leggere almeno 6 libri. **Progresso 2/6**.
+Leggere almeno 6 libri. **Progresso 4/6**.
 
-1. Cal Newport, _Deep work, Rules for Focused Success in a Distracted World_, Piatkus, 2016.
+1. Cal Newport, _Deep work, Rules for Focused Success in a Distracted World_, Piatkus, 2016. Ho scritto degli appunti [qui](../2023-02-01-deep-work)
 2. Gene Kim, Kevin Behr, George Spafford, _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_, It Revolution Pr, 27 febbraio 2018.
+3. Antonio Pelleriti, _ASP. NET Core. Guida pratica_, Edizioni LSWR; Prima edizione, 20 giugno 2022.
+4. Carlo Rovelli, _Buchi Bianchi_, Adelphi, 3 Marzo 2023.
 
 ### 🏃 Allenamento
 
-* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 16 sessioni al 09/02/2024**
+* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 21 sessioni al 19/02/2024**
 
 ### 👔 Network
 

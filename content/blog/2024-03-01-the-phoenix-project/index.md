@@ -3,7 +3,7 @@ layout: post
 title: "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win (Gene Kim, Kevin Behr, George Spafford)"
 date: 2024-03-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
