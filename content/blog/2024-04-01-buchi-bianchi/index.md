@@ -3,7 +3,7 @@ layout: post
 title: "Buchi Bianchi (Carlo Rovelli)"
 date: 2024-04-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
@@ -17,18 +17,18 @@ Questa volta Carlo Rovelli si addentra in un buco nero e ci fa vivere l'esperien
 ## 🚀 Cosa mi porto a casa da questa lettura
 
 - La maggior parte delle teorie sui buchi bianchi e la maggior parte delle descrizioni matematiche e sperimentali per adesso si limitano alla linea dell'orizzonte del buco nero. Tale osservazione e studio si basa sulla nostra posizione e quindi sul nostro punto di vista. Quello che sappiamo è che:
-  - vicino ad un punto nero il tempo rallenta in maniera infinitesimale, come se gli orologi si fermassero. Questo però è visibile solo da distante
+  - vicino ad un buco nero **il tempo rallenta** in maniera infinitesimale, come se gli orologi si fermassero. Questo però è visibile solo da distante
   - La luce che entra dentro ad un buco nero difficilmente esce.
-  - Il buco nero emette del calore e questo lentamente lo consuma facendolo evaporare ma all'interno la massa della stella esausta che è collassata rimane
+  - Il **buco nero emette del calore** e questo lentamente lo consuma facendolo evaporare ma all'interno la massa della stella esausta che è collassata rimane
 - I buchi bianchi sono dei fratelli minori dei buchi bianchi, non ne abbiamo mai visto uno però la matematica ci viene in aiuto.
 - Le stelle si formano da nuvole di idrogeno che si addensano collassando. Nel collasso si accendono ed iniziano a bruciare l'idrogeno. Facendo così la stella si illumina e produce via via elementi sempre più pesanti. La stella può bruciare per miliardi di anni fino a che spegnendosi, si raffredda e collassando si comprime aumentando la pressione e la massa fino a far sprofondare lo spazio tempo in un imbuto dove il tempo si sgretola... si è formato un buco nero. Il buco nero però non rimane in silenzio e nel 1928, grazie ad un fisico della Bell Labs, Karl Jansky ne abbiamo sentito il rumore catturato da delle antenne. Lo spazio di parla dei buchi neri con un rumore di sottofondo. E' come una stufa che si raffredda.
-- Abbiamo un enorme buco nero al centro della nostra galassia, grande quanto l'orbita terrestre e pesante 4 milioni di volte la massa del sole. Questo buco nero ci parla e trasmette onde radio audibili da un asta di ferro di 30 metri sulla terra distante 30 mila anni luce da noi.
+- Abbiamo un enorme **buco nero al centro della nostra galassia**, grande quanto l'orbita terrestre e pesante 4 milioni di volte la massa del sole. Questo buco nero ci parla e trasmette onde radio audibili da un asta di ferro di 30 metri sulla terra distante 30 mila anni luce da noi.
 - Se invece ci volessimo avvicinare ad un buco nero, ci potremmo servire dei calcoli di Finkelstein che ci dimostrano come avvicinandosi e oltrepassando l'orizzonte, i nostri orologi non rallenterebbero e non succederebbe nullo di stano. Semplicemente ci potrebbero vedere più da fuori. Schwarzschild spiega che da lontanto ci vedrebbero rallentare fino a fermarci.
 - **Ogni luogo nell'universo ha il suo tempo**.
-- La gravità non è altro che la distorsione del tempo e dello spazio.
+- **La gravità non è altro che la distorsione del tempo e dello spazio**.
 - I buchi bianchi sono la stessa soluzione delle equazioni di Einstein che descrive i buchi neri, solo scritta con il segno del tempo invertito. A questo però dobbiamo aggiungere quegli effetti irreversibili legati al calore che emanano i buchi neri, come una stufa che si raffredda si dice che i buchi neri evaporino. Attezione che questo evaporare è limitato solo all'orizzonte del buco nero, non al suo interno, dove la stella spenta continua ad esserci.
-- Il Big Bang può essere stato un grande rimbalzo cosmico, l'universo si comprime raggiunge la densità massima consentita dai quanti, poi rimbalza e inizia ad espandersi. In un buco nero non è l’intero universo a rimbalzare ma una stella. La radiazione di Hawking è irreversibile, come il raffreddamento di una stufa calda. Quindi la vita di un buco nero non può essere reversibile. Il rimbalzo non può essere completo.
-- Viviamo in un momento dell'universo in cui il tempo ha un senso perchè esistono delle trasformazioni irreversibili, ma ciò potrebbe essere solo un periodo. Se tutto fosse in equilibrio non ci sarebbe più concetto di tempo. Così anche il nostro scegliere e il nostro pensiero essendo un gesto irreversibile fa parte del tempo stesso.
+- Il **Big Bang può essere stato un grande rimbalzo cosmico**, l'universo si comprime raggiunge la densità massima consentita dai quanti, poi rimbalza e inizia ad espandersi. In un buco nero non è l’intero universo a rimbalzare ma una stella. La radiazione di Hawking è irreversibile, come il raffreddamento di una stufa calda. Quindi la vita di un buco nero non può essere reversibile. Il rimbalzo non può essere completo.
+- **Viviamo in un momento dell'universo in cui il tempo ha un senso perchè esistono delle trasformazioni irreversibili**, ma ciò potrebbe essere solo un periodo. Se tutto fosse in equilibrio non ci sarebbe più concetto di tempo. Così anche il nostro scegliere e il nostro pensiero essendo un gesto irreversibile fa parte del tempo stesso.
 
 ## 🍷 Conclusione
 
