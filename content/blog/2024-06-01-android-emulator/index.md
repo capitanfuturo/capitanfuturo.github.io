@@ -1,9 +1,9 @@
 ---
 layout: post
-title: ""
+title: "Come costruirsi un Emulatore Android senza Android Studio"
 date: 2024-06-01 19:24:04 +0100
 tags: ["Software"]
-published: false
+published: true
 ---
 
 ## 💾 Premessa
@@ -25,13 +25,14 @@ Purtroppo in ufficio abbiamo tutta l'infrastruttura basata su sistemi Microsoft,
 Per prima cosa si impostano delle variabili con i link ai tool necessari per la creazione dell'emulatore. In particolare la JDK di Java per la compilazione del codice necessario e i command line tools di Android che sono disponibili nella pagina di download di Android Studio e in particolare sulle opzioni di download.
 
 ```powershell
-# variables
+# Variables
 $jdkVersion = "jdk-18.0.2.1"
-$jdkUrl = "https://download.oracle.com/java/18/archive/jdk-18.0.2.1_windows-x64_bin.zip"
-$commandLineToolsUrl = "https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip?hl=it"
+$commandLineTool = "commandlinetools-win-11076708"
+$jdkUrl = "https://download.oracle.com/java/18/archive/" + $jdkVersion + "_windows-x64_bin.zip"
+$commandLineToolsUrl = "https://dl.google.com/android/repository/" + $commandLineTool + "_latest.zip?hl=it"
 
-$systemImage = "android-33"
-$phoneName = "android33"
+$systemImage = "android-29"
+$phoneName = "android29"
 $device = "pixel_3a"
 ```
 
@@ -55,93 +56,91 @@ Il pezzo dedicato è il seguente:
 $currentDirectory = $PWD.Path
 $outputDir = "$currentDirectory\output"
 
-Write-Host "Creating the emulator."
+Write-Host "* Start creating the emulator..."
 
 # Crea la directory principale
 if (-not (Test-Path $outputDir)) {
-    New-Item -ItemType Directory -Path $outputDir
+    New-Item -ItemType Directory -Path $outputDir | Out-Null
+    Write-Host "$outputDir created"
 }
 else {
-    Write-Host "$outputDir already exists"
+    Write-Host "- $outputDir already exists"
 }
 
-# Crea le sotto-directory
+# Create the subfolders
 $platformsPath = "$outputDir\platforms"
 $platformToolsPath = "$outputDir\platform-tools"
-$cliToolsPath = "$outputDir\cmdline-tools"
 $avdPath = "$outputDir\avd"
 
 if (-not (Test-Path $platformsPath)) {
-    Write-Host "Creating $platformsPath"
-    New-Item -ItemType Directory -Path $platformsPath 
+    New-Item -ItemType Directory -Path $platformsPath | Out-Null
+    Write-Host "- $platformsPath created"
 }
 else {
-    Write-Host "$platformsPath already exists"
+    Write-Host "- $platformsPath already exists"
 }
 if (-not (Test-Path $platformToolsPath)) {
-    Write-Host "Creating $platformToolsPath"
-    New-Item -ItemType Directory -Path $platformToolsPath
+    New-Item -ItemType Directory -Path $platformToolsPath | Out-Null
+    Write-Host "- $platformToolsPath created"
 }
 else {
-    Write-Host "$platformToolsPath already exists"
+    Write-Host "- $platformToolsPath already exists"
 }
 if (-not (Test-Path $avdPath)) {
-    Write-Host "Creating $avdPath"
-    New-Item -ItemType Directory -Path $avdPath 
+    New-Item -ItemType Directory -Path $avdPath | Out-Null
+    Write-Host "- $avdPath created"
 }
 else {
-    Write-Host "$avdPath already exists"
+    Write-Host "- $avdPath already exists"
 }
 ```
 
 A questo punto scarichiamo e installiamo i tools e la JDK
 
 ```powershell
-$zipFilePath = "$outputDir\commandlinetools-win-11076708_latest.zip"
-if (-not (Test-Path $zipFilePath)) {
-    Write-Host "Download command line tools."
-    Invoke-WebRequest -Uri $commandLineToolsUrl -OutFile $zipFilePath
-}
-else {
-    Write-Host "$zipFilePath already exists"
-}
+# Manage command line tool
+$commandLineToolsPath = "$outputDir\cmdline-tools"
+if (-not (Test-Path $commandLineToolsPath)) {
+    $latestFolder = "$outputDir\latest"
 
-if (-not (Test-Path $cliToolsPath)) {
-    Write-Host "Extract commandlinetools. This create $cliToolsPath"
+    Write-Host "* Extract commandlinetools. This will create $commandLineToolsPath"
     Expand-Archive -Path $zipFilePath -DestinationPath $outputDir
-    Write-Host "Move $cliToolsPath into $outputDir\latest"
-    Move-Item -Path $cliToolsPath -Destination "$outputDir\latest"
-    Write-Host "Create  $cliToolsPath"
-    New-Item -ItemType Directory -Path  $cliToolsPath
-    Write-Host "Move $outputDir\latest into  $cliToolsPath"
-    Move-Item -Path "$outputDir\latest" -Destination "$cliToolsPath"
+    
+    Rename-Item -Path $commandLineToolsPath -NewName $latestFolder -Force | Out-Null
+    Write-Host "- $commandLineToolsPath renamed in $latestFolder"
+
+    New-Item -ItemType Directory -Path $commandLineToolsPath | Out-Null
+    Write-Host "- $commandLineToolsPath recreated"
+
+    Move-Item -Path $latestFolder -Destination $commandLineToolsPath
+    Write-Host "- $latestFolder moved into $commandLineToolsPath"
 }
 else {
-    Write-Host "$outputDir\latest already exists"
+    Write-Host "* Command line tools already exists"
 }
 
 $zipFilePath = "$outputDir\jdk-18.0.2.1_windows-x64_bin.zip"
 if (-not (Test-Path $zipFilePath)) {
-    Write-Host "Download JDK"
+    Write-Host "* Download JDK"
     Invoke-WebRequest -Uri $jdkUrl -OutFile $zipFilePath
 }
 else {
-    Write-Host "$zipFilePath already exists"
+    Write-Host "* JDK zip already exists"
 }
 
 if (-not (Test-Path "$outputDir\$jdkVersion")) {
-    Write-Host "Extract JDK"
+    Write-Host "* Extract JDK"
     Expand-Archive -Path $zipFilePath -DestinationPath $outputDir
 }
 else {
-    Write-Host "$outputDir\$jdkVersion already exists"
+    Write-Host "* JDK already exists"
 }
 ```
 
 Salviamoci le precedenti variabili di ambiente e impostiamo quelle nuove
 
 ```powershell
-# backup env val
+# Backup ENV values
 $oldAvdHome = $env:ANDROID_AVD_HOME
 $oldSdkHome = $env:ANDROID_SDK_HOME
 $oldSdkRoot = $env:ANDROID_SDK_ROOT
@@ -159,20 +158,22 @@ Segue il lavoro sporco... installare il tutto. Il consiglio è di accettare i va
 
 ```powershell
 if (-not (Test-Path "$outputDir\system-images\$systemImage")) {
+    Write-Host "* Install the system image and the platform"
     Start-Process -FilePath "$outputDir\cmdline-tools\latest\bin\sdkmanager.bat" -ArgumentList "--install", "system-images;$systemImage;google_apis;x86_64" -NoNewWindow -Wait
     Start-Process -FilePath "$outputDir\cmdline-tools\latest\bin\sdkmanager.bat" -ArgumentList "platform-tools platforms;$systemImage" -NoNewWindow -Wait
 }
-
-if (-not (Test-Path "$outputDir\avd\$phoneName.avd")) {
-    Start-Process -FilePath "$outputDir\cmdline-tools\latest\bin\avdmanager.bat" -ArgumentList "create avd --name $phoneName --package system-images;$systemImage;google_apis;x86_64 --tag google_apis --abi x86_64 --device $device" -NoNewWindow -Wait
+else {
+    Write-Host "* System image and platform already exists"
 }
 ```
 
 Eseguiamo l'emulatore
 
 ```powershell
-# Write-Host "Emulator created."
+# start the emulator
+Write-Host "* Launch the emulator"
 Start-Process -FilePath "$outputDir\emulator\emulator.exe" -ArgumentList "-avd $phoneName -qemu -m 3000" -NoNewWindow -Wait
+
 ```
 
 Ripristiniamo le variabili ambiente

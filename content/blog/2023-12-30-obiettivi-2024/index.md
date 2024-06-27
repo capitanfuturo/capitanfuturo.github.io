@@ -46,10 +46,10 @@ Leggere almeno 6 libri. **Progresso 4/6**.
 
 ### 🏃 Allenamento
 
-* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 42 sessioni al 26/03/2024**
+* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 90 sessioni al 27/06/2024**
 
 ### 👔 Network
 
-* Quest'anno voglio migliorare la mia attivitò di networking uscendo dalla mia confort zone e provando a conoscere persone nuove nel mio ambito lavorativo e non solo.
+* Quest'anno voglio migliorare la mia attività di networking uscendo dalla mia confort zone e provando a conoscere persone nuove nel mio ambito lavorativo e non solo. A tal proposito segno un buon video di [Marcello Ascani](https://www.youtube.com/watch?v=32hSJRMdQV8).
 
 > Colui che sa effettivamente cosa vuole nella vita ha già fatto molto per ottenerlo. (Napoleon Hill)
