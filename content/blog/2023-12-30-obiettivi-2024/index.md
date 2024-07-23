@@ -46,7 +46,7 @@ Leggere almeno 6 libri. **Progresso 4/6**.
 
 ### 🏃 Allenamento
 
-* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 90 sessioni al 27/06/2024**
+* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 103 sessioni al 18/07/2024**
 
 ### 👔 Network
 

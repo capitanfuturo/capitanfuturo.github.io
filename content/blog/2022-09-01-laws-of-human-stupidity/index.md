@@ -7,22 +7,22 @@ published: true
 ---
 ## 📚 Introduzione
 
-Ho letto questo libro di Carlo Cipolla “The basic laws of human stupidity” da un consiglio di uno youtuber, Marcello Ascani. Un ragazzo che sta costruendo un discreto successo attraverso youtube e la sua presenza nei social.
+Ho letto questo libro di Carlo Cipolla “The basic laws of human stupidity” seguendo il di uno youtuber, Marcello Ascani. Un ragazzo che sta costruendo un discreto successo attraverso youtube e la sua presenza nei social.
 
-Il libro è interessante anche se devo ammettere a volte privo di numeri scientifici però efficace nel descrivere seppur in modo forse troppo generalista l’essere umano e la sua tendenza a comportarsi da stupido.
+Il libro è interessante anche se privo di dati scientifici, in modo irriverente descrive seppur in modo generalista l’essere umano e la sua tendenza a comportarsi da stupido.
 
 ## 📑 Leggi basilari e annotazioni
 
 - Il numero di stupidi è sottostimato.
-- Questo numero è indipendente dalla tipologia di gruppo di persone preso in considerazione.
+- Questo numero è indipendente dalla tipologia di gruppo di persone presa in considerazione.
 - Le persone possono essere catalogate in sprovveduti, intelligenti, banditi e stupidi.
-- Le persone non sono coerenti e si comportano tendenzialmente da intelligenti, banditi o sprovveduti. Solo gli stupidi tendono a comportarsi sempre come tali.
+- Le persone non sono coerenti, cioè non dimostrano un solo aspetto e si comportano tendenzialmente da intelligenti, banditi o sprovveduti. Solo gli stupidi tendono a comportarsi sempre come tali.
 - I banditi perfetti sono molto pochi
 - Le persone non-stupide sottovalutano troppo le conseguenze della presenza di persone stupide
 
 ## 🔢 Le 4 categorie del genere umano
 
-Cipolla espone un grafico che riassume il suo pesniero e che si basa sul fatto che ognuno di noi è in equilibrio con gli altri. Ogni azione o non azione nostra fa conseguire una perdita o un guadagno ad un altro. Questo gioco però non è a somma zero e per questo si possono delineare delle aree, in particolare 4 quadranti che possono essere disposti su un piano cartesiano:
+Cipolla espone un grafico che riassume il suo pesniero e che si basa sul fatto che ognuno di noi è in equilibrio con gli altri. Ogni nostra azione o non azione fa conseguire una perdita o un guadagno ad un altro. Questo gioco però non è a somma zero e per questo si possono delineare delle aree, in particolare 4 quadranti che possono essere disposti su un piano cartesiano:
 
 1. Gli sprovveduti
 2. Gli intelligenti
