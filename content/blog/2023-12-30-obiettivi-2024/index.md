@@ -37,12 +37,13 @@ Quest'anno sarà un anno molto orientato al percorso di lavoro che ho intrarpeso
 
 ### 📚 Lettura e 🚀 Lifelong learning
 
-Leggere almeno 6 libri. **Progresso 4/6**.
+Leggere almeno 6 libri. **Progresso 5/6**.
 
 1. Cal Newport, _Deep work, Rules for Focused Success in a Distracted World_, Piatkus, 2016. Ho scritto degli appunti [qui](../2023-02-01-deep-work)
 2. Gene Kim, Kevin Behr, George Spafford, _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_, It Revolution Pr, 27 febbraio 2018. Ho scritto degli appunti [qui](../2023-03-01-the-phoenix-project)
 3. Antonio Pelleriti, _ASP. NET Core. Guida pratica_, Edizioni LSWR; Prima edizione, 20 giugno 2022.
-4. Carlo Rovelli, _Buchi Bianchi_, Adelphi, 3 Marzo 2023.
+4. Carlo Rovelli, _Buchi Bianchi_, Adelphi, 3 Marzo 2023. Ho scritto degli appunti [qui](../2024-04-01-buchi-bianchi/).
+5. Nicolo Valigi, Gianluca Mauro, *Zero to AI A non-technical, hype-free guide to prospering in the AI era*, Manning Publications, 2020.
 
 ### 🏃 Allenamento
 

@@ -3,7 +3,7 @@ layout: post
 title: "Zero to AI A non-technical, hype-free guide to prospering in the AI era (Nicolò Valigi, Gianluca Mauro)"
 date: 2024-08-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
@@ -128,6 +128,6 @@ Ora sarà da vedere le implicazioni e le applicazioni in campo business. Consigl
 
 ## 🤓 Riferimento
 
-Nicolo Valigi, Gianluca Mauro, _Zero to AI A non-technical, hype-free guide to prospering in the AI era_, Manning Publications, 2020.  [Amazon](https://www.amazon.it/Zero-AI-Non-technical-Hype-free-Prospering/dp/1617296066/ref=sr_1_1?crid=2R9O6NH8H7SG8&dib=eyJ2IjoiMSJ9.aDK4uNZD4IYQWPn2henyEup79fYrQQlw_IfkZxbyaNnQE35xkURT7W0wxYLvsPN84650XYdw_aj407Noc7UYPUBLBfgUyxp-bshnft0j9HvA9xujTKq-9pSo3NTIQyeo9Ms5bDNPzbaTmx-CCjvXtio9_dUNRDHuKxaLNAz0_zqD3m-j_6T-keK4JPYUNlaKUVENhx3RqNfN6NsLYzlA5DNz11wbZ5CZPBPHjKcZKNIgr-hsCKqSsqV2thC1Hd9LbLjoc__7ZJytFXVd5KMhMT-lt5PZaN3Uclz1eU62qPw.0b3JX7Ns_Jgl_xPze7w3CiW-vbE30cVpIXWWKWouWjk&dib_tag=se&keywords=zero+to+ai&qid=1721763642&sprefix=zero+to+ai%2Caps%2C525&sr=8-1).
+Nicolo Valigi, Gianluca Mauro, *Zero to AI A non-technical, hype-free guide to prospering in the AI era*, Manning Publications, 2020.  [Amazon](https://www.amazon.it/Zero-AI-Non-technical-Hype-free-Prospering/dp/1617296066/ref=sr_1_1?crid=2R9O6NH8H7SG8&dib=eyJ2IjoiMSJ9.aDK4uNZD4IYQWPn2henyEup79fYrQQlw_IfkZxbyaNnQE35xkURT7W0wxYLvsPN84650XYdw_aj407Noc7UYPUBLBfgUyxp-bshnft0j9HvA9xujTKq-9pSo3NTIQyeo9Ms5bDNPzbaTmx-CCjvXtio9_dUNRDHuKxaLNAz0_zqD3m-j_6T-keK4JPYUNlaKUVENhx3RqNfN6NsLYzlA5DNz11wbZ5CZPBPHjKcZKNIgr-hsCKqSsqV2thC1Hd9LbLjoc__7ZJytFXVd5KMhMT-lt5PZaN3Uclz1eU62qPw.0b3JX7Ns_Jgl_xPze7w3CiW-vbE30cVpIXWWKWouWjk&dib_tag=se&keywords=zero+to+ai&qid=1721763642&sprefix=zero+to+ai%2Caps%2C525&sr=8-1).
 
 > "Prima di lavorare sull'intelligenza artificiale, perché non facciamo qualcosa contro la stupidità naturale?" (Steve Polyak)
