@@ -1,4 +1,4 @@
-FROM node:20.1.0
+FROM node:18.20.5
 
 RUN apt-get update && \
     apt-get -y install \
@@ -20,13 +20,13 @@ RUN apt-get update && \
 
 WORKDIR /app/
 
-RUN yarn global add gatsby-cli@4.25.0
+RUN yarn global add gatsby-cli@5.14.0
 COPY package.json ./
 
 RUN yarn add sharp && \
     yarn install
 
-EXPOSE 80
+EXPOSE 8000
 
 COPY ./docker/docker-entrypoint.local.sh /docker-entrypoint.local.sh
 RUN chmod +x /docker-entrypoint.local.sh

@@ -15,6 +15,7 @@ const TagListTemplate = ({
 }) => {
   return (
     <Layout location="tags" title={title}>
+      <Bio />
       <article
         className="blog-post"
         itemScope
@@ -33,9 +34,6 @@ const TagListTemplate = ({
           ))}
         </ul>
         <hr />
-        <footer>
-          <Bio />
-        </footer>
       </article>
     </Layout>
   );
