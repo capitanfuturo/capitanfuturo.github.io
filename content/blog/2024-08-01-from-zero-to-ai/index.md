@@ -8,16 +8,16 @@ published: true
 
 ## 📚 Introduzione
 
-Libro iniziato a leggere per caso, in un periodo nel quale ho iniziato ad addantrarmi nel mondo dell'AI. E' un buon libro non tecnico ma alla portata di tutti per introdurre i concetti base.
+Questo libro iniziato per caso, in un periodo nel quale ho iniziato ad addantrarmi nel mondo dell'AI è un ottimo libro, adatto anche ai non tecnici per introdurre i concetti base. Gli autori partono dalle basi e dalla storia per poi presentare dei casi pratici e delle strategie per sviluppare dei progetti in azienda.
 
 ## 🚀 Cosa mi porto a casa da questa lettura
 
 ### Un pò di storia
 
-- Intelligenza artificiale è stata coniato come termine il 31 Agosto 1955, da Jhon McCarthy, Mavin Lee Minsky, Rochester e Shannon. Si distinguono i primi due tipi di AI:
+- Il termine Intelligenza artificiale è stato coniato il 31 Agosto 1955, da Jhon McCarthy, Mavin Lee Minsky, Rochester e Shannon i quali distinguono i primi due tipi di AI:
     1. Narrow AI: che risolve task specifici
-    2. General AI: che rispondono a qualsiasi task presentato
-    3. (Super AI: categoria aggiunta in seguito per esplorare AI che possano superare l'intelligenza umana)
+    2. General AI: che risponde a qualsiasi task presentato
+    3. (Super AI o AGI: categoria aggiunta in seguito per esplorare AI che possano superare l'intelligenza umana)
 - Nel 1959 Arthur Samuel inizia a parlare di Machine Learning. L'autore parte dal fatto che noi essere umani apprendiamo il linguaggio dai nostri simili ed in particolare dai nostri genitori senza conoscere prima la grammatica, ma con l'esperienza, così si immagina che imitando questo comporatmento si possa rendere le macchine capaci di apprendere senza dover sapere a priori tutte le regole linguistiche.
 - Nei successivi decenni si parla di inverno dell'AI perchè a causa della scarsa capacità computazionale le teorie e la loro applicabilità sembrano inarrivabili per gli scienziati del momento
 - Il disgelo e la primavera dell'AI inizia negli anni 80 quando Xerox e IBM investono nel campo con una nuova tecnologia chiamata **expert systems**. Tali sistemi provano a riprodurre le prestazioni di una o più persone esperte in un campo di attività. Il sistema esperto si compone principalmente di tre sezioni:
@@ -25,7 +25,7 @@ Libro iniziato a leggere per caso, in un periodo nel quale ho iniziato ad addant
     2. un motore inferenziale, in cui il programma si occupa di applicare in concreto le nozioni contenute nella base dati;
     3. un'interfaccia utente, che permette l’interazione fra il soggetto umano e il programma che deve dare risposta ai suoi problemi.
 - Questi sistemi esperti iniziano a mostrare i loro difetti e molte aziende muoiono, è l'inizio del secondo inverno dell'AI. I problemi princiapli sono:
-    1. La scara adattabilità: ogni miglioria del software richiede una reingenierizzazione
+    1. La scarsa adattabilità: ogni miglioria del software richiede una reingenierizzazione
     2. La verticalità: il sistema non risponde a situazioni non previste a priori nella progettazione
     3. La manutenzione: il sistema è complesso e mette insieme migliaia di vincoli
 - Negli anni 2000 l'attenzione per Machine Learning riprende vigore. Iniziano ad esserci i calcolatori e le memorie disco per poter affrontare realmente queste tematiche.

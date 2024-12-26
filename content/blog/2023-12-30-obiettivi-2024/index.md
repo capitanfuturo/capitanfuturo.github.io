@@ -37,18 +37,19 @@ Quest'anno sarà un anno molto orientato al percorso di lavoro che ho intrarpeso
 
 ### 📚 Lettura e 🚀 Lifelong learning
 
-Leggere almeno 6 libri. **Progresso 6/6**.
+Leggere almeno 6 libri. **Progresso 7/6**.
 
 1. Cal Newport, _Deep work, Rules for Focused Success in a Distracted World_, Piatkus, 2016. Ho scritto degli appunti [qui](../2023-02-01-deep-work)
 2. Gene Kim, Kevin Behr, George Spafford, _The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win_, It Revolution Pr, 27 febbraio 2018. Ho scritto degli appunti [qui](../2023-03-01-the-phoenix-project)
-3. Antonio Pelleriti, _ASP. NET Core. Guida pratica_, Edizioni LSWR; Prima edizione, 20 giugno 2022.
+3. Antonio Pelleriti, _ASP. NET Core. Guida pratica_, Edizioni LSWR, Prima edizione, 20 giugno 2022.
 4. Carlo Rovelli, _Buchi Bianchi_, Adelphi, 3 Marzo 2023. Ho scritto degli appunti [qui](../2024-04-01-buchi-bianchi/).
 5. Nicolo Valigi, Gianluca Mauro, _Zero to AI A non-technical, hype-free guide to prospering in the AI era_, Manning Publications, 2020. Ho scritto degli appunti [qui](../2024-08-01-from-zero-to-ai/).
-6. Satya Nadella, _Hit refresh: A Memoir by Microsoft’s CEO_, Harper Uk, 1 marzo 2018.
+6. Satya Nadella, _Hit refresh: A Memoir by Microsoft’s CEO_, Harper Uk, 1 marzo 2018. Ho scritto degli appunti [qui](../2024-10-01-hit-refresh/).
+7. Nicole Daedone, _Slow Sex: The Art and craft of the Female Orgasm_, Grand Central Publishing, 22 Maggio 2012.
 
 ### 🏃 Allenamento
 
-* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 133 sessioni al 23/09/2024**
+* Continuare ad allenarmi in 🏋🏽‍♀️ palestra 👍. **Progresso: 162 sessioni**
 
 ### 👔 Network
 
