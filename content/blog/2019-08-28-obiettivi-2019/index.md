@@ -6,7 +6,7 @@ tags: ["Personale"]
 published: true
 ---
 
-:trophy: Lo so che sono un bel po' in ritardo ma in vista del prossimo anno volevo fissare qui i pochi obiettivi personali per il 2019 ed i relativi risultati parziali.
+🏆 Lo so che sono un bel po' in ritardo ma in vista del prossimo anno volevo fissare qui i pochi obiettivi personali per il 2019 ed i relativi risultati parziali.
 
 Un piccolo gesto che ho intrapreso e che voglio portare avanti in un percorso di auto miglioramento è quello di mettere nero su bianco degli obiettivi raggiungibili e misurabili in modo da programmare e disegnare un passo alla volta quello a cui aspiro.
 
