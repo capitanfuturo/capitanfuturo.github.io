@@ -29,18 +29,18 @@ Il pubblico al quale si rivolge è però orientato a risultati veloci e pratici 
 #### Tecniche fondamentali per trattare la gente
 
 1. _"Se vuoi prenderti il miele, non tirar calci all'alveare"_. Può sembrare fin troppo banale ma è forse uno dei principi più difficili da controllare. Calato nelle relazioni significa che bisogna imparare a **non criticare gli altri** perché la critica non porta a nulla, è pericolosa, ferisce il prossimo e lo mette sulla difensiva, proprio il contrario di quello che vogliamo in una relazione costruttiva.
-   L'esercizio è quello di cercare di capire l'altro senza recriminare o condannare perché probabilmente se fossimo al suo posto ci comporteremmo alla stessa maniera.
+   - L'esercizio è quello di cercare di capire l'altro senza recriminare o condannare perché probabilmente se fossimo al suo posto ci comporteremmo alla stessa maniera.
 2. _Il grande segreto per trattare con la gente_. Tutti noi vogliamo essere importanti. Questo messaggio si traduce con l'esercizio di trovare gli aspetti positivi dell'altro per poi **donare sinceramente lodi e ammirazione**. Questo metterà l'altro in condizioni favorevoli alla relazione.
-   Da ricordare che si parla di complimenti che nascono dal cuore di chi ha riconosciuto nell'altro quella particolare dote, non si tratta di lusinga che invece è superficiale, falsa e inefficace.
+   - Da ricordare che si parla di complimenti che nascono dal cuore di chi ha riconosciuto nell'altro quella particolare dote, non si tratta di lusinga che invece è superficiale, falsa e inefficace.
 3. _Chi mi seguirà avrà il mondo dalla sua, chi non lo farà camminerà solo in un deserto_. Se vuoi parlare con qualcuno devi **trovare un argomento che piaccia al tuo interlocutore**. Questo lo metterà a suo agio. Non parlare di se ma lasciar parlare l'altro, ascoltarlo con attenzione.
-   Banalmente ad un cliente piace avere la sensazione di aver comprato qualcosa e non che qualcuno gliela stia vendendo. E' questione di prospettiva.
+   - Banalmente ad un cliente piace avere la sensazione di aver comprato qualcosa e non che qualcuno gliela stia vendendo. E' questione di prospettiva.
 
 ### Parte Seconda
 
 #### Sei modi per farsi benvolere
 
 1. _Come essere bene accolti ovunque_. Ci si fa più amici in due mesi mostrandosi **interessati agli altri** che non in due anni tentando di indurre gli altri a interessarsi a noi.
-   Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse per l'altro, per la sua storia, per il suo lavoro.
+   - Se vogliamo farci degli amici dobbiamo orientarci all'altruismo e all'interesse per l'altro, per la sua storia, per il suo lavoro.
 2. _Un modo semplice per fare subito una buona impressione_. **Sorridi** semplicemente, spontaneamente. E se non si ha voglia agisci come se fossi già felice.
 3. _Se non seguite questo consiglio avrete dei problemi_. **Chiama le persone per nome**.
 4. _Un modo facile per diventare buoni conversatori_. Per essere un buon conversatore bisogna **imparare prima ad essere buoni ascoltatori**. Per interessare mostratevi interessati. Fate domande gradite e fate parlare gli altri.
