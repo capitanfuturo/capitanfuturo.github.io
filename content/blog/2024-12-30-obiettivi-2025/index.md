@@ -41,7 +41,9 @@ L'anno prossimo cambierò nuovamente lavoro. Sarà un nuova vecchia avventura pe
 
 ### 📚 Lettura
 
-Leggere almeno 6 libri. **Progresso 0/6**.
+Leggere almeno 6 libri. **Progresso 1/6**.
+
+1. Zygmunt Bauman, _Meglio essere felici_, Castelvecchi, 19 gennaio 2017.
 
 ### 🚀 Lifelong learning
 
@@ -49,7 +51,7 @@ Corsi specifici sull'intelligenza artificiale
 
 ### 🏃 Allenamento
 
-Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 0 sessioni**
+Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 9 sessioni al 20/01/2025**
 
 ### 🏋️‍♀️ Ricomposizione corporea
 
