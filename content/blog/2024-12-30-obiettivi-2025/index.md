@@ -57,4 +57,4 @@ Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Prog
 
 Perdere massa grassa e aumentare la massa magra. (3 kg)
 
-> 
+> "Senza fretta, ma senza tregua." (Lev Tolstoj)
