@@ -68,6 +68,6 @@ Questo libro come il primo mi ha appassionato molto. Riconosco che non ha lo ste
 
 ## 🤓 Riferimento
 
-Yuval Noah Harari, _Homo Deus_, Bompiani, 2018. [Amazon](https://www.amazon.it/Homo-Deus-Breve-storia-futuro-ebook/dp/B072LQ13KK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
+Yuval Noah Harari, _Homo Deus_, Bompiani, 2017. [Amazon](https://www.amazon.it/Homo-Deus-Breve-storia-futuro-ebook/dp/B072LQ13KK/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=&sr=).
 
 > "Una economia che si regge su una crescita infinita ha bisogno di progetti infiniti" (Harari)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meglio essere felici (Zygmunt Bauman)"
-date: 2025-12-01 19:24:04 +0100
+date: 2025-02-01 19:24:04 +0100
 tags: ["Libri"]
 published: true
 ---

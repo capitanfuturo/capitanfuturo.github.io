@@ -67,6 +67,6 @@ Mi piace anche la domanda che si pone l'autore e che ci lascia come monito: siam
 
 ## 🤓 Riferimento
 
-Yuval Noah Harari, _Sapiens. Da animali a dèi: Breve storia dell'umanità_,  Bompiani, Marzo 2021.
+Yuval Noah Harari, _Sapiens. Da animali a dèi: Breve storia dell'umanità_,  Bompiani, Marzo 2014.
 
 > "Nell'universo non esistono dèi, non esistono nazioni né denaro né diritti umani né leggi, e non esiste alcuna giustizia che non sia nell'immaginazione comune degli esseri umani." (Harari)

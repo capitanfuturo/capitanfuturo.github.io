@@ -23,7 +23,7 @@ Quest'anno è stato un anno diverso dal solito. Ho cambiato lavoro a Novembre 20
 - La formazione è un pilastro per aumentare il livello del team
 - Tutti possono sbagliare, l'importante non è fare una caccia alle streghe ma migliorare i processi
 
-Oltre a questi metterei tutti i punti di sano management che si trovano online o con l'aiuto si un LLM. Oltre al lavoro quest'anno voglio provare a rivedere cosa ho scritto in questi anni di bloggin per capire se gli obiettivi che mi sono dato sono diventati abitudini consolidate oppure no. 
+Oltre a questi metterei tutti i punti di sano management che si trovano online o con l'aiuto si un LLM. Oltre al lavoro quest'anno voglio provare a rivedere cosa ho scritto in questi anni di bloggin per capire se gli obiettivi che mi sono dato sono diventati abitudini consolidate oppure no.
 
 | Anno di partenza | Descrizione | Abitudine | Note  |
 | --- | --- | --- | --- |
@@ -41,9 +41,10 @@ L'anno prossimo cambierò nuovamente lavoro. Sarà un nuova vecchia avventura pe
 
 ### 📚 Lettura
 
-Leggere almeno 6 libri. **Progresso 1/6**.
+Leggere almeno 6 libri. **Progresso 2/6**.
 
 1. Zygmunt Bauman, _Meglio essere felici_, Castelvecchi, 19 gennaio 2017.
+2. Noah Harari, _21 Lezioni per il XXI secolo_, Bompiani, 30 agosto 2018.
 
 ### 🚀 Lifelong learning
 
@@ -51,7 +52,7 @@ Corsi specifici sull'intelligenza artificiale
 
 ### 🏃 Allenamento
 
-Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 9 sessioni al 20/01/2025**
+Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 23 sessioni al 21/03/2025**
 
 ### 🏋️‍♀️ Ricomposizione corporea
 
