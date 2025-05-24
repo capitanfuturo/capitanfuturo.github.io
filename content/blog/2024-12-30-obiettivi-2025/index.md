@@ -27,7 +27,7 @@ Oltre a questi metterei tutti i punti di sano management che si trovano online o
 
 | Anno di partenza | Descrizione | Abitudine | Note  |
 | --- | --- | --- | --- |
-| 2019 | Mettere nero su bianco degli obiettivi raggiungibili e misurabili | 🟢 | Direri che qui ci siamo ancora 😁 | 
+| 2019 | Mettere nero su bianco degli obiettivi raggiungibili e misurabili | 🟢 | Direri che qui ci siamo ancora 😁 |
 | 2019 | Corsa o allenamento fisico costante | 🟢 |  |
 | 2019 | Lettura e corsi | 🟢 | In media ho visto che riesco a leggere 7 libri all'anno |
 | 2020 | Arduino | 🟡 | Abbandonato ma appreso |
@@ -41,10 +41,11 @@ L'anno prossimo cambierò nuovamente lavoro. Sarà un nuova vecchia avventura pe
 
 ### 📚 Lettura
 
-Leggere almeno 6 libri. **Progresso 2/6**.
+Leggere almeno 6 libri. **Progresso 3/6**.
 
 1. Zygmunt Bauman, _Meglio essere felici_, Castelvecchi, 19 gennaio 2017.
 2. Noah Harari, _21 Lezioni per il XXI secolo_, Bompiani, 30 agosto 2018.
+3. Radhika Dutt. _Radical product thinking_, Berrett-Koehler Publishers, 28 settembre 2021.
 
 ### 🚀 Lifelong learning
 
@@ -52,7 +53,7 @@ Corsi specifici sull'intelligenza artificiale
 
 ### 🏃 Allenamento
 
-Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 23 sessioni al 21/03/2025**
+Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 29 sessioni al 24/05/2025**
 
 ### 🏋️‍♀️ Ricomposizione corporea
 

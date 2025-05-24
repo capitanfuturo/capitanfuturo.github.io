@@ -3,7 +3,7 @@ layout: post
 title: "21 Lezioni per il XXI secolo (Noah Harari)"
 date: 2025-03-31 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
