@@ -53,10 +53,10 @@ Corsi specifici sull'intelligenza artificiale
 
 ### 🏃 Allenamento
 
-Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 29 sessioni al 24/05/2025**
+Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 36 sessioni al 16/06/2025**
 
 ### 🏋️‍♀️ Ricomposizione corporea
 
-Perdere massa grassa e aumentare la massa magra. (3 kg)
+Perdere massa grassa e aumentare massa magra. (3 kg)
 
 > "Senza fretta, ma senza tregua." (Lev Tolstoj)
