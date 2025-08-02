@@ -3,7 +3,7 @@ layout: post
 title: "Radical product thinking (Radhika Dutt)"
 date: 2025-06-01 19:24:04 +0100
 tags: ["Libri"]
-published: false
+published: true
 ---
 
 ## 📚 Introduzione
