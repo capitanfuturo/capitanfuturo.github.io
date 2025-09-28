@@ -41,12 +41,13 @@ L'anno prossimo cambierò nuovamente lavoro. Sarà un nuova vecchia avventura pe
 
 ### 📚 Lettura
 
-Leggere almeno 6 libri. **Progresso 4/6**.
+Leggere almeno 6 libri. **Progresso 5/6**.
 
 1. Zygmunt Bauman, _Meglio essere felici_, Castelvecchi, 19 gennaio 2017. Ho scritto degli appunti [qui](../2025-02-01-meglio-essere-felici)
 2. Noah Harari, _21 Lezioni per il XXI secolo_, Bompiani, 30 agosto 2018. Ho scritto degli appunti [qui](../2025-03-31-21-lezioni-per-il-xxi-secolo)
 3. Radhika Dutt. _Radical product thinking_, Berrett-Koehler Publishers, 28 settembre 2021. Ho scritto degli appunti [qui](../2025-06-01-radical-product-thinking)
-4. Alberto Savoia. _The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed_, HarperOne, 26 febbraio 2019.
+4. Alberto Savoia. _The Right It: Why So Many Ideas Fail and How to Make Sure Yours Succeed_, HarperOne, 26 febbraio 2019. Ho scritto degli appunti [qui](../2025-08-01-the-right-it)
+5. Ramit Sethi. _I Will Teach You To Be Rich_, WordUnited Ltd, 23 marzo 2009
 
 ### 🚀 Lifelong learning
 
@@ -56,7 +57,7 @@ Corsi specifici sull'intelligenza artificiale.
 
 ### 🏃 Allenamento
 
-Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 36 sessioni al 16/06/2025**
+Continuare ad allenarmi in 🏋🏽‍♀️ palestra o nella corsa 👍. **Progresso: 50 sessioni al 28/09/2025**
 
 ### 🏋️‍♀️ Ricomposizione corporea
 
