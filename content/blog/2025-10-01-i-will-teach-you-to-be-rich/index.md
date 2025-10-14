@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Will Teach You To Be Rich (Ramit Sethi)"
-date: 2025-08-01 19:24:04 +0100
+date: 2025-10-01 19:24:04 +0100
 tags: ["Libri"]
 published: true
 ---
