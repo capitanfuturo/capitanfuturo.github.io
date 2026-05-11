@@ -1,0 +1,45 @@
+---
+import '../styles/global.css';
+import faviconSrc from '../images/favicon.png';
+
+interface Props {
+  title: string;
+  description?: string;
+  isRoot?: boolean;
+}
+
+const { title, description = 'Another personal blog.', isRoot = false } = Astro.props;
+const pageTitle = isRoot ? 'Capitanfuturo' : `${title} | Capitanfuturo`;
+---
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{pageTitle}</title>
+    <link rel="icon" href={faviconSrc.src} />
+    <link rel="alternate" type="application/rss+xml" title="Capitanfuturo RSS Feed" href="/rss.xml" />
+  </head>
+  <body class="bg-white text-gray-800 antialiased">
+    <div class="max-w-3xl mx-auto px-5 py-10">
+      <header class="mb-12">
+        {isRoot ? (
+          <h1 class="text-5xl font-black m-0">
+            <a href="/" class="text-gray-900 no-underline hover:no-underline">Capitanfuturo</a>
+          </h1>
+        ) : (
+          <a href="/" class="font-bold text-lg text-blue-800 no-underline hover:underline">
+            ← Capitanfuturo
+          </a>
+        )}
+      </header>
+      <main>
+        <slot />
+      </main>
+      <footer class="mt-16 pt-6 border-t border-gray-200 text-sm text-gray-500">
+        © 2019–{new Date().getFullYear()} Giuseppe Caliendo
+      </footer>
+    </div>
+  </body>
+</html>

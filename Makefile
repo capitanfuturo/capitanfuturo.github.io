@@ -9,8 +9,8 @@ start-docker:
 	docker compose up
 
 ##start: @ Start the blog with local node
-start: 
-	npm run start
+start:
+	npm run dev
 
 ##code: @ Open vscode
 code: 

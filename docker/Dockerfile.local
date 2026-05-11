@@ -1,33 +1,20 @@
-FROM node:18.20.5
+FROM node:20-slim
 
 RUN apt-get update && \
-    apt-get -y install \
+    apt-get -y install --no-install-recommends \
     git \
     openssl \
-    python3 \
-    g++ \
-    autoconf \
-    automake \
-    libtool \
-    gcc \
-    make \
-    file \
-    nasm \
-    libvips \
-    --no-install-recommends && \
+    libvips && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app/
 
-RUN yarn global add gatsby-cli@5.14.0
-COPY package.json ./
+COPY package.json package-lock.json ./
+RUN npm ci
 
-RUN yarn add sharp && \
-    yarn install
-
-EXPOSE 8000
+EXPOSE 4321
 
 COPY ./docker/docker-entrypoint.local.sh /docker-entrypoint.local.sh
 RUN chmod +x /docker-entrypoint.local.sh
-ENTRYPOINT /docker-entrypoint.local.sh
+ENTRYPOINT ["/docker-entrypoint.local.sh"]

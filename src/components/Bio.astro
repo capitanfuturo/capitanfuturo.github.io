@@ -1,0 +1,24 @@
+---
+import { Image } from 'astro:assets';
+import profilePic from '../images/profile-pic.jpg';
+---
+<div class="flex items-start gap-4 mb-16">
+  <Image
+    src={profilePic}
+    alt="Foto profilo Giuseppe Caliendo"
+    width={50}
+    height={50}
+    class="rounded-full min-w-[50px]"
+  />
+  <p class="m-0 text-sm leading-relaxed">
+    Scritto da <strong>Giuseppe Caliendo</strong> con amore 💖 dall'Italia.
+    {' '}
+    <a href="https://twitter.com/capitanfuturo81" class="text-blue-700 hover:underline">[Twitter]</a>
+    {' '}
+    <a href="https://www.linkedin.com/in/giuseppecaliendo" class="text-blue-700 hover:underline">[LinkedIn]</a>
+    {' '}
+    <a href="https://github.com/capitanfuturo" class="text-blue-700 hover:underline">[Github]</a>
+    {' '}
+    <a href="/tags/" class="text-blue-700 hover:underline">[Tutti i tag]</a>
+  </p>
+</div>

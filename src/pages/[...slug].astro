@@ -1,0 +1,75 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Bio from '../components/Bio.astro';
+import { getPublishedPosts, postSlug, tagSlug, formatDate } from '../lib/posts';
+
+export async function getStaticPaths() {
+  const allPosts = await getPublishedPosts();
+
+  return allPosts.map((post, index) => ({
+    params: { slug: postSlug(post.id) },
+    props: {
+      post,
+      prev: index < allPosts.length - 1 ? allPosts[index + 1] : null,
+      next: index > 0 ? allPosts[index - 1] : null,
+    },
+  }));
+}
+
+const { post, prev, next } = Astro.props;
+const { Content } = await render(post);
+---
+<Layout title={post.data.title} description={post.data.description}>
+  <article itemscope itemtype="http://schema.org/Article">
+    <header class="mb-8">
+      <h1 class="text-3xl font-black mb-2" itemprop="headline">
+        {post.data.title}
+      </h1>
+      <div class="text-sm text-gray-500 flex flex-wrap gap-2 items-center">
+        <time datetime={post.data.date.toISOString()}>
+          {formatDate(post.data.date)}
+        </time>
+        {post.data.tags && post.data.tags.length > 0 && (
+          <span class="flex gap-1 flex-wrap">
+            {post.data.tags.map((tag) => (
+              <a
+                href={`/tags/${tagSlug(tag)}/`}
+                class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-xs hover:bg-blue-100"
+              >
+                {tag}
+              </a>
+            ))}
+          </span>
+        )}
+      </div>
+    </header>
+
+    <div class="prose prose-blue max-w-none" itemprop="articleBody">
+      <Content />
+    </div>
+
+    <hr class="my-10 border-gray-200" />
+
+    <footer>
+      <Bio />
+    </footer>
+  </article>
+
+  <nav class="flex justify-between mt-8 pt-4 border-t border-gray-200 text-sm">
+    <div>
+      {prev && (
+        <a href={`/${postSlug(prev.id)}/`} class="text-blue-700 hover:underline">
+          ← {prev.data.title}
+        </a>
+      )}
+    </div>
+    <div>
+      {next && (
+        <a href={`/${postSlug(next.id)}/`} class="text-blue-700 hover:underline">
+          {next.data.title} →
+        </a>
+      )}
+    </div>
+  </nav>
+</Layout>

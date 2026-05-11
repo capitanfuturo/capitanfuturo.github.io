@@ -1,0 +1,49 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import Bio from '../../components/Bio.astro';
+import { getPublishedPosts, postSlug, tagSlug, formatDate } from '../../lib/posts';
+
+export async function getStaticPaths() {
+  const allPosts = await getPublishedPosts();
+
+  const tagMap = new Map<string, typeof allPosts>();
+  for (const post of allPosts) {
+    for (const tag of post.data.tags ?? []) {
+      if (!tagMap.has(tag)) tagMap.set(tag, []);
+      tagMap.get(tag)!.push(post);
+    }
+  }
+
+  return [...tagMap.entries()].map(([tag, posts]) => ({
+    params: { tag: tagSlug(tag) },
+    props: { tag, posts },
+  }));
+}
+
+const { tag, posts } = Astro.props;
+---
+<Layout title={`Tag: ${tag}`}>
+  <Bio />
+  <h1 class="text-3xl font-black mb-2">{tag}</h1>
+  <p class="text-gray-500 text-sm mb-8">
+    {posts.length} post{posts.length !== 1 ? 's' : ''}
+  </p>
+  <ul class="list-none p-0 m-0 space-y-4">
+    {posts.map((post) => (
+      <li>
+        <div class="text-xs text-gray-400 mb-0.5">
+          {formatDate(post.data.date)}
+        </div>
+        <a
+          href={`/${postSlug(post.id)}/`}
+          class="text-blue-800 hover:underline font-medium"
+        >
+          {post.data.title}
+        </a>
+      </li>
+    ))}
+  </ul>
+  <div class="mt-10">
+    <a href="/tags/" class="text-blue-700 hover:underline text-sm">← Tutti i tag</a>
+  </div>
+</Layout>

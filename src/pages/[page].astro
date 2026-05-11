@@ -1,0 +1,78 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Bio from '../components/Bio.astro';
+import { getPublishedPosts, postSlug, tagSlug, formatDate, PAGE_SIZE } from '../lib/posts';
+
+export async function getStaticPaths() {
+  const allPosts = await getPublishedPosts();
+  const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
+
+  return Array.from({ length: totalPages - 1 }, (_, i) => {
+    const page = i + 2;
+    return {
+      params: { page: String(page) },
+      props: {
+        posts: allPosts.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE),
+        currentPage: page,
+        totalPages,
+      },
+    };
+  });
+}
+
+const { posts, currentPage, totalPages } = Astro.props;
+const prevPage = currentPage === 2 ? '/' : `/${currentPage - 1}/`;
+const nextPage = `/${currentPage + 1}/`;
+---
+<Layout title={`Blog — pagina ${currentPage}`}>
+  <Bio />
+  <ol class="list-none p-0 m-0 space-y-8">
+    {posts.map((post) => {
+      const slug = postSlug(post.id);
+      return (
+        <li>
+          <article itemscope itemtype="http://schema.org/Article">
+            <header class="mb-2">
+              <h2 class="text-xl font-bold m-0 mb-1">
+                <a
+                  href={`/${slug}/`}
+                  class="text-blue-800 no-underline hover:underline"
+                  itemprop="url"
+                >
+                  <span itemprop="headline">{post.data.title}</span>
+                </a>
+              </h2>
+              <div class="text-sm text-gray-500 flex flex-wrap gap-2 items-center">
+                <time datetime={post.data.date.toISOString()}>
+                  {formatDate(post.data.date)}
+                </time>
+                {post.data.tags && post.data.tags.length > 0 && (
+                  <span class="flex gap-1 flex-wrap">
+                    {post.data.tags.map((tag) => (
+                      <a
+                        href={`/tags/${tagSlug(tag)}/`}
+                        class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-xs hover:bg-blue-100"
+                      >
+                        {tag}
+                      </a>
+                    ))}
+                  </span>
+                )}
+              </div>
+            </header>
+          </article>
+        </li>
+      );
+    })}
+  </ol>
+  <nav class="flex justify-between mt-12 pt-4 border-t border-gray-200">
+    <a href={prevPage} class="text-blue-700 hover:underline font-medium">
+      ← Pagina precedente
+    </a>
+    {currentPage < totalPages && (
+      <a href={nextPage} class="text-blue-700 hover:underline font-medium">
+        Pagina successiva →
+      </a>
+    )}
+  </nav>
+</Layout>

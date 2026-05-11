@@ -1,0 +1,59 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Bio from '../components/Bio.astro';
+import { getPublishedPosts, postSlug, tagSlug, formatDate, PAGE_SIZE } from '../lib/posts';
+
+const allPosts = await getPublishedPosts();
+const posts = allPosts.slice(0, PAGE_SIZE);
+const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
+---
+<Layout title="Capitanfuturo" isRoot={true}>
+  <Bio />
+  <ol class="list-none p-0 m-0 space-y-8">
+    {posts.map((post) => {
+      const slug = postSlug(post.id);
+      return (
+        <li>
+          <article itemscope itemtype="http://schema.org/Article">
+            <header class="mb-2">
+              <h2 class="text-xl font-bold m-0 mb-1">
+                <a
+                  href={`/${slug}/`}
+                  class="text-blue-800 no-underline hover:underline"
+                  itemprop="url"
+                >
+                  <span itemprop="headline">{post.data.title}</span>
+                </a>
+              </h2>
+              <div class="text-sm text-gray-500 flex flex-wrap gap-2 items-center">
+                <time datetime={post.data.date.toISOString()}>
+                  {formatDate(post.data.date)}
+                </time>
+                {post.data.tags && post.data.tags.length > 0 && (
+                  <span class="flex gap-1 flex-wrap">
+                    {post.data.tags.map((tag) => (
+                      <a
+                        href={`/tags/${tagSlug(tag)}/`}
+                        class="bg-blue-50 text-blue-700 px-2 py-0.5 rounded text-xs hover:bg-blue-100"
+                      >
+                        {tag}
+                      </a>
+                    ))}
+                  </span>
+                )}
+              </div>
+            </header>
+          </article>
+        </li>
+      );
+    })}
+  </ol>
+  <nav class="flex justify-between mt-12 pt-4 border-t border-gray-200">
+    <span></span>
+    {totalPages > 1 && (
+      <a href="/2/" class="text-blue-700 hover:underline font-medium">
+        Pagina successiva →
+      </a>
+    )}
+  </nav>
+</Layout>
