@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Bio from '../components/Bio.astro';
-import { getPublishedPosts, postSlug, tagSlug, formatDate, PAGE_SIZE } from '../lib/posts';
+import { getPublishedPosts, postSlug, tagSlug, formatDate, postExcerpt, PAGE_SIZE } from '../lib/posts';
 
 const allPosts = await getPublishedPosts();
 const posts = allPosts.slice(0, PAGE_SIZE);
@@ -43,6 +43,7 @@ const totalPages = Math.ceil(allPosts.length / PAGE_SIZE);
                 )}
               </div>
             </header>
+            <p class="text-sm text-gray-600 mt-2 leading-relaxed">{postExcerpt(post.body)}</p>
           </article>
         </li>
       );

@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Bio from '../components/Bio.astro';
-import { getPublishedPosts, postSlug, tagSlug, formatDate, PAGE_SIZE } from '../lib/posts';
+import { getPublishedPosts, postSlug, tagSlug, formatDate, postExcerpt, PAGE_SIZE } from '../lib/posts';
 
 export async function getStaticPaths() {
   const allPosts = await getPublishedPosts();
@@ -60,6 +60,7 @@ const nextPage = `/${currentPage + 1}/`;
                 )}
               </div>
             </header>
+            <p class="text-sm text-gray-600 mt-2 leading-relaxed">{postExcerpt(post.body)}</p>
           </article>
         </li>
       );

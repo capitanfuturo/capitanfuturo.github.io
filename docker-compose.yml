@@ -7,6 +7,8 @@ services:
       context: ./
       dockerfile: docker/Dockerfile.local
     image: capitanfuturo-blog:local
+    environment:
+      - CHOKIDAR_USEPOLLING=true
     ports:
       - "4321:4321"
     volumes:
