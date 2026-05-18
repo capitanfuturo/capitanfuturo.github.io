@@ -12,7 +12,7 @@ start:
 code: 
 	code .
 
-##publish: @ Push to master and publish (MSG="..." required)
+##publish: @ Push to master and publish (MSG="..." required) -- es: make publish MSG="nuovo post"
 publish:
 ifndef MSG
 	$(error MSG is required: make publish MSG="your commit message")

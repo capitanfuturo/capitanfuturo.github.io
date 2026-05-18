@@ -3,11 +3,11 @@
 
 @layer base {
   html {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Inconsolata', 'Courier New', Courier, monospace;
   }
 
   .prose {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Inconsolata', 'Courier New', Courier, monospace;
     --tw-prose-body: #1a1a1a;
     --tw-prose-headings: #0a0a0a;
     --tw-prose-links: #0a0a0a;
